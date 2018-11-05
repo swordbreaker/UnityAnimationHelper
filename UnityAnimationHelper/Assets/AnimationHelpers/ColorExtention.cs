@@ -3,7 +3,7 @@
 namespace AnimationHelpers
 {
     /// <summary>
-    /// Simple extentions for the Unity Color classs
+    /// Simple extensions for the Unity Color classs
     /// </summary>
     public static class ColorExtention
     {
