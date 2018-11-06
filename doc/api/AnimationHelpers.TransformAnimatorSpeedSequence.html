@@ -1,0 +1,627 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class TransformAnimatorSpeedSequence
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class TransformAnimatorSpeedSequence
+   ">
+    <meta name="generator" content="docfx 2.36.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence">
+  
+  
+  <h1 id="AnimationHelpers_TransformAnimatorSpeedSequence" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence" class="text-break">Class TransformAnimatorSpeedSequence
+  </h1>
+  <div class="markdown level0 summary"><p>Class for animations which uses a animation speed.
+It is not possible to add more than one animation to a speed sequence
+because the speed parameter can have a different meaning for different animations
+therefore the animation does not have the same duration with the same speed.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html">SpeedAnimationSequence</a></div>
+    <div class="level2"><span class="xref">TransformAnimatorSpeedSequence</span></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="AnimationHelpers.IAnmationSequence.html">IAnmationSequence</a></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence__speed">SpeedAnimationSequence._speed</a>
+    </div>
+    <div>
+      <a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence__travelDistance">SpeedAnimationSequence._travelDistance</a>
+    </div>
+    <div>
+      <a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_StartManualAnimation">SpeedAnimationSequence.StartManualAnimation()</a>
+    </div>
+    <div>
+      <a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_UpdateAnimation">SpeedAnimationSequence.UpdateAnimation()</a>
+    </div>
+    <div>
+      <a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_ConstructCoroutine">SpeedAnimationSequence.ConstructCoroutine()</a>
+    </div>
+    <div>
+      <a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_Reverse">SpeedAnimationSequence.Reverse()</a>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="AnimationHelpers.html">AnimationHelpers</a></h6>
+  <h6><strong>Assembly</strong>: cs.temp.dll.dll</h6>
+  <h5 id="AnimationHelpers_TransformAnimatorSpeedSequence_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class TransformAnimatorSpeedSequence : SpeedAnimationSequence, IAnmationSequence</code></pre>
+  </div>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="AnimationHelpers_TransformAnimatorSpeedSequence_AnimationStep_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep*"></a>
+  <h4 id="AnimationHelpers_TransformAnimatorSpeedSequence_AnimationStep_System_Single_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep(System.Single)">AnimationStep(Single)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void AnimationStep(float t)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">t</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_AnimationStep_System_Single_">SpeedAnimationSequence.AnimationStep(Single)</a></div>
+  
+  
+  <a id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateCustomAnimation_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation*"></a>
+  <h4 id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateCustomAnimation_AnimationHelpers_TransformAnimator_Action_System_Single__System_Single_System_Single_Func_System_Single_System_Single__" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation(AnimationHelpers.TransformAnimator,Action{System.Single},System.Single,System.Single,Func{System.Single,System.Single})">CreateCustomAnimation(TransformAnimator, Action&lt;Single&gt;, Single, Single, Func&lt;Single, Single&gt;)</h4>
+  <div class="markdown level1 summary"><p>Create a custom animation.
+<remarks>
+The t value of the animation is calculated as follow: <pre><code>travelTime * speed / travelDistance</code></pre>
+</remarks></p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static TransformAnimatorSpeedSequence CreateCustomAnimation(TransformAnimator transformAnimator, Action&lt;float&gt; animation, float speed, float distance, Func&lt;float, float&gt; easeFunction = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimator.html">TransformAnimator</a></td>
+        <td><span class="parametername">transformAnimator</span></td>
+        <td><p>The TransformAnimator of the transform to animate</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Action</span>&lt;<span class="xref">System.Single</span>&gt;</td>
+        <td><span class="parametername">animation</span></td>
+        <td><p>The action to call every step. The step will get the t [0,1] value as a parameter.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">speed</span></td>
+        <td><p>The speed of the animation.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">distance</span></td>
+        <td><p>The distance the animation needs to travel.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Func</span>&lt;<span class="xref">System.Single</span>, <span class="xref">System.Single</span>&gt;</td>
+        <td><span class="parametername">easeFunction</span></td>
+        <td><p>The ease functions to use for the interpolation</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimatorSpeedSequence.html">TransformAnimatorSpeedSequence</a></td>
+        <td><p>it self</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalMoveAnimation_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation*"></a>
+  <h4 id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalMoveAnimation_AnimationHelpers_TransformAnimator_Vector3_Vector3_System_Single_Func_System_Single_System_Single__" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})">CreateLocalMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func&lt;Single, Single&gt;)</h4>
+  <div class="markdown level1 summary"><p>Create a new Move speed animation which uses the local position of the transform.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static TransformAnimatorSpeedSequence CreateLocalMoveAnimation(TransformAnimator transformAnimator, Vector3 startPosition, Vector3 endPosition, float speed, Func&lt;float, float&gt; easeFunction = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimator.html">TransformAnimator</a></td>
+        <td><span class="parametername">transformAnimator</span></td>
+        <td><p>The TransformAnimator of the transform to animate</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">startPosition</span></td>
+        <td><p>The start position</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">endPosition</span></td>
+        <td><p>The end position</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">speed</span></td>
+        <td><p>The speed of the animation. When the distance is 1 unity unit with the speed 1 it will take 1 seconds to animate.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Func</span>&lt;<span class="xref">System.Single</span>, <span class="xref">System.Single</span>&gt;</td>
+        <td><span class="parametername">easeFunction</span></td>
+        <td><p>The ease functions to use for the interpolation</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimatorSpeedSequence.html">TransformAnimatorSpeedSequence</a></td>
+        <td><p>it self</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalRotaionAnimation_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation*"></a>
+  <h4 id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalRotaionAnimation_AnimationHelpers_TransformAnimator_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation(AnimationHelpers.TransformAnimator,Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})">CreateLocalRotaionAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func&lt;Single, Single&gt;)</h4>
+  <div class="markdown level1 summary"><p>Create a new rotation animation which uses the local rotation of the transform.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static TransformAnimatorSpeedSequence CreateLocalRotaionAnimation(TransformAnimator transformAnimator, Quaternion startRotation, Quaternion endRotation, float speed, Func&lt;float, float&gt; easeFunction = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimator.html">TransformAnimator</a></td>
+        <td><span class="parametername">transformAnimator</span></td>
+        <td><p>The TransformAnimator of the transform to animate</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Quaternion</span></td>
+        <td><span class="parametername">startRotation</span></td>
+        <td><p>The start rotation</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Quaternion</span></td>
+        <td><span class="parametername">endRotation</span></td>
+        <td><p>The end rotation</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">speed</span></td>
+        <td><p>The speed of the animation. When the rotation distance is 1 Euler angle and the speed is 1 second the animation will take 1 second.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Func</span>&lt;<span class="xref">System.Single</span>, <span class="xref">System.Single</span>&gt;</td>
+        <td><span class="parametername">easeFunction</span></td>
+        <td><p>The ease functions to use for the interpolation</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimatorSpeedSequence.html">TransformAnimatorSpeedSequence</a></td>
+        <td><p>it self</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateMoveAnimation_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation*"></a>
+  <h4 id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateMoveAnimation_AnimationHelpers_TransformAnimator_Vector3_Vector3_System_Single_Func_System_Single_System_Single__" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})">CreateMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func&lt;Single, Single&gt;)</h4>
+  <div class="markdown level1 summary"><p>Create a new Move speed animation</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static TransformAnimatorSpeedSequence CreateMoveAnimation(TransformAnimator transformAnimator, Vector3 startPosition, Vector3 endPosition, float speed, Func&lt;float, float&gt; easeFunction = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimator.html">TransformAnimator</a></td>
+        <td><span class="parametername">transformAnimator</span></td>
+        <td><p>The TransformAnimator of the transform to animate</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">startPosition</span></td>
+        <td><p>The start position</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">endPosition</span></td>
+        <td><p>The end position</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">speed</span></td>
+        <td><p>The speed of the animation. When the distance is 1 unity unit with the speed 1 it will take 1 seconds to animate.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Func</span>&lt;<span class="xref">System.Single</span>, <span class="xref">System.Single</span>&gt;</td>
+        <td><span class="parametername">easeFunction</span></td>
+        <td><p>The ease functions to use for the interpolation</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimatorSpeedSequence.html">TransformAnimatorSpeedSequence</a></td>
+        <td><p>it self</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateRotationAnimation_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation*"></a>
+  <h4 id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateRotationAnimation_AnimationHelpers_TransformAnimator_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation(AnimationHelpers.TransformAnimator,Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})">CreateRotationAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func&lt;Single, Single&gt;)</h4>
+  <div class="markdown level1 summary"><p>Create a new rotation animation.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static TransformAnimatorSpeedSequence CreateRotationAnimation(TransformAnimator transformAnimator, Quaternion startRotation, Quaternion endRotation, float speed, Func&lt;float, float&gt; easeFunction = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimator.html">TransformAnimator</a></td>
+        <td><span class="parametername">transformAnimator</span></td>
+        <td><p>The TransformAnimator of the transform to animate</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Quaternion</span></td>
+        <td><span class="parametername">startRotation</span></td>
+        <td><p>The start rotation</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Quaternion</span></td>
+        <td><span class="parametername">endRotation</span></td>
+        <td><p>The end rotation</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">speed</span></td>
+        <td><p>The speed of the animation. When the rotation distance is 1 Euler angle and the speed is 1 second the animation will take 1 second.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Func</span>&lt;<span class="xref">System.Single</span>, <span class="xref">System.Single</span>&gt;</td>
+        <td><span class="parametername">easeFunction</span></td>
+        <td><p>The ease functions to use for the interpolation</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimatorSpeedSequence.html">TransformAnimatorSpeedSequence</a></td>
+        <td><p>it self</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateScaleAnimation_" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation*"></a>
+  <h4 id="AnimationHelpers_TransformAnimatorSpeedSequence_CreateScaleAnimation_AnimationHelpers_TransformAnimator_Vector3_Vector3_System_Single_Func_System_Single_System_Single__" data-uid="AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})">CreateScaleAnimation(TransformAnimator, Vector3, Vector3, Single, Func&lt;Single, Single&gt;)</h4>
+  <div class="markdown level1 summary"><p>Create a new scale animation.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static TransformAnimatorSpeedSequence CreateScaleAnimation(TransformAnimator transformAnimator, Vector3 startScale, Vector3 endScale, float speed, Func&lt;float, float&gt; easeFunction = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimator.html">TransformAnimator</a></td>
+        <td><span class="parametername">transformAnimator</span></td>
+        <td><p>The TransformAnimator of the transform to animate</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">startScale</span></td>
+        <td><p>The start scale</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">endScale</span></td>
+        <td><p>The end scale</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">speed</span></td>
+        <td><p>The speed of the animation. When the scale has a difference of 1 unit with the speed of 1 it takes 1 second to animate</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Func</span>&lt;<span class="xref">System.Single</span>, <span class="xref">System.Single</span>&gt;</td>
+        <td><span class="parametername">easeFunction</span></td>
+        <td><p>The ease functions to use for the interpolation</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AnimationHelpers.TransformAnimatorSpeedSequence.html">TransformAnimatorSpeedSequence</a></td>
+        <td><p>it self</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="AnimationHelpers.IAnmationSequence.html">IAnmationSequence</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

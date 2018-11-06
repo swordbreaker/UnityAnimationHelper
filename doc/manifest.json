@@ -1,0 +1,320 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Unity/UnityAnimationHelper/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.ColorExtention.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.ColorExtention.html",
+          "hash": "kzg7GAAV+jPSy5AObTOkow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.DurationAnimationSequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.DurationAnimationSequence.html",
+          "hash": "PKZT8KRGeBbzHef5UETDZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.IAnmationSequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.IAnmationSequence.html",
+          "hash": "U9mfQTCLHWXQMa25r5rjsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.OneShotSquence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.OneShotSquence.html",
+          "hash": "JtJuB0JY4U97rLQKphUBwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.SpeedAnimationSequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.SpeedAnimationSequence.html",
+          "hash": "++6G8ikffy1u1vy4VCLWiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.TextAnimator.TextAnimationAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.TextAnimator.TextAnimationAction.html",
+          "hash": "if79iGu5PmnMYXtiU5tnow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.TextAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.TextAnimator.html",
+          "hash": "5MloVNYhzfaOQai2L8o6zA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.TmpProExtention.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.TmpProExtention.html",
+          "hash": "jdZZIoJIdUZnI4M+54+Tvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.TransformAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.TransformAnimator.html",
+          "hash": "3EHS1+c8cbrPt3kBp+twUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.TransformAnimatorDurationSequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.TransformAnimatorDurationSequence.html",
+          "hash": "nh+wFVPmzhhVsARybxOJPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.TransformAnimatorSpeedSequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.TransformAnimatorSpeedSequence.html",
+          "hash": "cfzIz6FS9sfCh9zJ4NrcSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.TransformExtention.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.TransformExtention.html",
+          "hash": "BjRKQmL2LKShDN3EfuOjOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.ValueAnimationExtentions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.ValueAnimationExtentions.html",
+          "hash": "Px2rBu+um1qtjtDQY0wbsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.ValueDurationAnimation-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.ValueDurationAnimation-1.html",
+          "hash": "7ZL1vp8sBngLFmmNkNwTwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.ValueSpeedAnimation-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.ValueSpeedAnimation-1.html",
+          "hash": "+WlF0UAIsKmwb2n51S/23A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.WaitForCondition.TimePredicate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.WaitForCondition.TimePredicate.html",
+          "hash": "MBbeMLzhoLrGGpzwCBaWdg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.WaitForCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.WaitForCondition.html",
+          "hash": "iV4/grVJ5OLtncbm5D850w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.WaitForSecondsSequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.WaitForSecondsSequence.html",
+          "hash": "on1I2uxknIEFpAG+lJwTzw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AnimationHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AnimationHelpers.html",
+          "hash": "34H2w3Rkg0pfAz7/X7IOCw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "dNMux5Oq+a4pw/xOUBMZbw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "XKTqZvkA1ewtCA0jswLAaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "vkm1jAOMnNmLpUYADeLOPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "zUEcqxeC8MmPdFio0fKEQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,2 +1,3 @@
-# PLACEHOLDER
-TODO: Add .NET projects to the *src* folder and run `docfx` to generate **REAL** *API Documentation*!
+# Animation Helpers
+
+This is the api documentation for [https://github.com/swordbreaker/UnityAnimationHelper](https://github.com/swordbreaker/UnityAnimationHelper)

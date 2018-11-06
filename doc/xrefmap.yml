@@ -1,0 +1,1588 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: AnimationHelpers
+  name: AnimationHelpers
+  href: api/AnimationHelpers.html
+  commentId: N:AnimationHelpers
+  fullName: AnimationHelpers
+  nameWithType: AnimationHelpers
+- uid: AnimationHelpers.ColorExtention
+  name: ColorExtention
+  href: api/AnimationHelpers.ColorExtention.html
+  commentId: T:AnimationHelpers.ColorExtention
+  fullName: AnimationHelpers.ColorExtention
+  nameWithType: ColorExtention
+- uid: AnimationHelpers.ColorExtention.Distance(Color,Color)
+  name: Distance(Color, Color)
+  href: api/AnimationHelpers.ColorExtention.html#AnimationHelpers_ColorExtention_Distance_Color_Color_
+  commentId: M:AnimationHelpers.ColorExtention.Distance(Color,Color)
+  fullName: AnimationHelpers.ColorExtention.Distance(Color, Color)
+  nameWithType: ColorExtention.Distance(Color, Color)
+- uid: AnimationHelpers.ColorExtention.Distance*
+  name: Distance
+  href: api/AnimationHelpers.ColorExtention.html#AnimationHelpers_ColorExtention_Distance_
+  commentId: Overload:AnimationHelpers.ColorExtention.Distance
+  isSpec: "True"
+  fullName: AnimationHelpers.ColorExtention.Distance
+  nameWithType: ColorExtention.Distance
+- uid: AnimationHelpers.ColorExtention.SetAlpha(Color,System.Single)
+  name: SetAlpha(Color, Single)
+  href: api/AnimationHelpers.ColorExtention.html#AnimationHelpers_ColorExtention_SetAlpha_Color_System_Single_
+  commentId: M:AnimationHelpers.ColorExtention.SetAlpha(Color,System.Single)
+  fullName: AnimationHelpers.ColorExtention.SetAlpha(Color, System.Single)
+  nameWithType: ColorExtention.SetAlpha(Color, Single)
+- uid: AnimationHelpers.ColorExtention.SetAlpha*
+  name: SetAlpha
+  href: api/AnimationHelpers.ColorExtention.html#AnimationHelpers_ColorExtention_SetAlpha_
+  commentId: Overload:AnimationHelpers.ColorExtention.SetAlpha
+  isSpec: "True"
+  fullName: AnimationHelpers.ColorExtention.SetAlpha
+  nameWithType: ColorExtention.SetAlpha
+- uid: AnimationHelpers.DurationAnimationSequence
+  name: DurationAnimationSequence
+  href: api/AnimationHelpers.DurationAnimationSequence.html
+  commentId: T:AnimationHelpers.DurationAnimationSequence
+  fullName: AnimationHelpers.DurationAnimationSequence
+  nameWithType: DurationAnimationSequence
+- uid: AnimationHelpers.DurationAnimationSequence.#ctor(System.Single,System.Boolean)
+  name: DurationAnimationSequence(Single, Boolean)
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence__ctor_System_Single_System_Boolean_
+  commentId: M:AnimationHelpers.DurationAnimationSequence.#ctor(System.Single,System.Boolean)
+  fullName: AnimationHelpers.DurationAnimationSequence.DurationAnimationSequence(System.Single, System.Boolean)
+  nameWithType: DurationAnimationSequence.DurationAnimationSequence(Single, Boolean)
+- uid: AnimationHelpers.DurationAnimationSequence.#ctor*
+  name: DurationAnimationSequence
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence__ctor_
+  commentId: Overload:AnimationHelpers.DurationAnimationSequence.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.DurationAnimationSequence.DurationAnimationSequence
+  nameWithType: DurationAnimationSequence.DurationAnimationSequence
+- uid: AnimationHelpers.DurationAnimationSequence._duration
+  name: _duration
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence__duration
+  commentId: F:AnimationHelpers.DurationAnimationSequence._duration
+  fullName: AnimationHelpers.DurationAnimationSequence._duration
+  nameWithType: DurationAnimationSequence._duration
+- uid: AnimationHelpers.DurationAnimationSequence.AnimationStep(System.Single)
+  name: AnimationStep(Single)
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_AnimationStep_System_Single_
+  commentId: M:AnimationHelpers.DurationAnimationSequence.AnimationStep(System.Single)
+  fullName: AnimationHelpers.DurationAnimationSequence.AnimationStep(System.Single)
+  nameWithType: DurationAnimationSequence.AnimationStep(Single)
+- uid: AnimationHelpers.DurationAnimationSequence.AnimationStep*
+  name: AnimationStep
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_AnimationStep_
+  commentId: Overload:AnimationHelpers.DurationAnimationSequence.AnimationStep
+  isSpec: "True"
+  fullName: AnimationHelpers.DurationAnimationSequence.AnimationStep
+  nameWithType: DurationAnimationSequence.AnimationStep
+- uid: AnimationHelpers.DurationAnimationSequence.ConstructCoroutine
+  name: ConstructCoroutine()
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_ConstructCoroutine
+  commentId: M:AnimationHelpers.DurationAnimationSequence.ConstructCoroutine
+  fullName: AnimationHelpers.DurationAnimationSequence.ConstructCoroutine()
+  nameWithType: DurationAnimationSequence.ConstructCoroutine()
+- uid: AnimationHelpers.DurationAnimationSequence.ConstructCoroutine*
+  name: ConstructCoroutine
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_ConstructCoroutine_
+  commentId: Overload:AnimationHelpers.DurationAnimationSequence.ConstructCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.DurationAnimationSequence.ConstructCoroutine
+  nameWithType: DurationAnimationSequence.ConstructCoroutine
+- uid: AnimationHelpers.DurationAnimationSequence.Reverse
+  name: Reverse()
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_Reverse
+  commentId: M:AnimationHelpers.DurationAnimationSequence.Reverse
+  fullName: AnimationHelpers.DurationAnimationSequence.Reverse()
+  nameWithType: DurationAnimationSequence.Reverse()
+- uid: AnimationHelpers.DurationAnimationSequence.Reverse*
+  name: Reverse
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_Reverse_
+  commentId: Overload:AnimationHelpers.DurationAnimationSequence.Reverse
+  isSpec: "True"
+  fullName: AnimationHelpers.DurationAnimationSequence.Reverse
+  nameWithType: DurationAnimationSequence.Reverse
+- uid: AnimationHelpers.DurationAnimationSequence.StartManualAnimation
+  name: StartManualAnimation()
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_StartManualAnimation
+  commentId: M:AnimationHelpers.DurationAnimationSequence.StartManualAnimation
+  fullName: AnimationHelpers.DurationAnimationSequence.StartManualAnimation()
+  nameWithType: DurationAnimationSequence.StartManualAnimation()
+- uid: AnimationHelpers.DurationAnimationSequence.StartManualAnimation*
+  name: StartManualAnimation
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_StartManualAnimation_
+  commentId: Overload:AnimationHelpers.DurationAnimationSequence.StartManualAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.DurationAnimationSequence.StartManualAnimation
+  nameWithType: DurationAnimationSequence.StartManualAnimation
+- uid: AnimationHelpers.DurationAnimationSequence.UpdateAnimation
+  name: UpdateAnimation()
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_UpdateAnimation
+  commentId: M:AnimationHelpers.DurationAnimationSequence.UpdateAnimation
+  fullName: AnimationHelpers.DurationAnimationSequence.UpdateAnimation()
+  nameWithType: DurationAnimationSequence.UpdateAnimation()
+- uid: AnimationHelpers.DurationAnimationSequence.UpdateAnimation*
+  name: UpdateAnimation
+  href: api/AnimationHelpers.DurationAnimationSequence.html#AnimationHelpers_DurationAnimationSequence_UpdateAnimation_
+  commentId: Overload:AnimationHelpers.DurationAnimationSequence.UpdateAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.DurationAnimationSequence.UpdateAnimation
+  nameWithType: DurationAnimationSequence.UpdateAnimation
+- uid: AnimationHelpers.IAnmationSequence
+  name: IAnmationSequence
+  href: api/AnimationHelpers.IAnmationSequence.html
+  commentId: T:AnimationHelpers.IAnmationSequence
+  fullName: AnimationHelpers.IAnmationSequence
+  nameWithType: IAnmationSequence
+- uid: AnimationHelpers.IAnmationSequence.ConstructCoroutine
+  name: ConstructCoroutine()
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_ConstructCoroutine
+  commentId: M:AnimationHelpers.IAnmationSequence.ConstructCoroutine
+  fullName: AnimationHelpers.IAnmationSequence.ConstructCoroutine()
+  nameWithType: IAnmationSequence.ConstructCoroutine()
+- uid: AnimationHelpers.IAnmationSequence.ConstructCoroutine*
+  name: ConstructCoroutine
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_ConstructCoroutine_
+  commentId: Overload:AnimationHelpers.IAnmationSequence.ConstructCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.IAnmationSequence.ConstructCoroutine
+  nameWithType: IAnmationSequence.ConstructCoroutine
+- uid: AnimationHelpers.IAnmationSequence.Reverse
+  name: Reverse()
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_Reverse
+  commentId: M:AnimationHelpers.IAnmationSequence.Reverse
+  fullName: AnimationHelpers.IAnmationSequence.Reverse()
+  nameWithType: IAnmationSequence.Reverse()
+- uid: AnimationHelpers.IAnmationSequence.Reverse*
+  name: Reverse
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_Reverse_
+  commentId: Overload:AnimationHelpers.IAnmationSequence.Reverse
+  isSpec: "True"
+  fullName: AnimationHelpers.IAnmationSequence.Reverse
+  nameWithType: IAnmationSequence.Reverse
+- uid: AnimationHelpers.IAnmationSequence.StartManualAnimation
+  name: StartManualAnimation()
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_StartManualAnimation
+  commentId: M:AnimationHelpers.IAnmationSequence.StartManualAnimation
+  fullName: AnimationHelpers.IAnmationSequence.StartManualAnimation()
+  nameWithType: IAnmationSequence.StartManualAnimation()
+- uid: AnimationHelpers.IAnmationSequence.StartManualAnimation*
+  name: StartManualAnimation
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_StartManualAnimation_
+  commentId: Overload:AnimationHelpers.IAnmationSequence.StartManualAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.IAnmationSequence.StartManualAnimation
+  nameWithType: IAnmationSequence.StartManualAnimation
+- uid: AnimationHelpers.IAnmationSequence.UpdateAnimation
+  name: UpdateAnimation()
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_UpdateAnimation
+  commentId: M:AnimationHelpers.IAnmationSequence.UpdateAnimation
+  fullName: AnimationHelpers.IAnmationSequence.UpdateAnimation()
+  nameWithType: IAnmationSequence.UpdateAnimation()
+- uid: AnimationHelpers.IAnmationSequence.UpdateAnimation*
+  name: UpdateAnimation
+  href: api/AnimationHelpers.IAnmationSequence.html#AnimationHelpers_IAnmationSequence_UpdateAnimation_
+  commentId: Overload:AnimationHelpers.IAnmationSequence.UpdateAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.IAnmationSequence.UpdateAnimation
+  nameWithType: IAnmationSequence.UpdateAnimation
+- uid: AnimationHelpers.OneShotSquence
+  name: OneShotSquence
+  href: api/AnimationHelpers.OneShotSquence.html
+  commentId: T:AnimationHelpers.OneShotSquence
+  fullName: AnimationHelpers.OneShotSquence
+  nameWithType: OneShotSquence
+- uid: AnimationHelpers.OneShotSquence.#ctor(Action)
+  name: OneShotSquence(Action)
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence__ctor_Action_
+  commentId: M:AnimationHelpers.OneShotSquence.#ctor(Action)
+  fullName: AnimationHelpers.OneShotSquence.OneShotSquence(Action)
+  nameWithType: OneShotSquence.OneShotSquence(Action)
+- uid: AnimationHelpers.OneShotSquence.#ctor*
+  name: OneShotSquence
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence__ctor_
+  commentId: Overload:AnimationHelpers.OneShotSquence.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.OneShotSquence.OneShotSquence
+  nameWithType: OneShotSquence.OneShotSquence
+- uid: AnimationHelpers.OneShotSquence.ConstructCoroutine
+  name: ConstructCoroutine()
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_ConstructCoroutine
+  commentId: M:AnimationHelpers.OneShotSquence.ConstructCoroutine
+  fullName: AnimationHelpers.OneShotSquence.ConstructCoroutine()
+  nameWithType: OneShotSquence.ConstructCoroutine()
+- uid: AnimationHelpers.OneShotSquence.ConstructCoroutine*
+  name: ConstructCoroutine
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_ConstructCoroutine_
+  commentId: Overload:AnimationHelpers.OneShotSquence.ConstructCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.OneShotSquence.ConstructCoroutine
+  nameWithType: OneShotSquence.ConstructCoroutine
+- uid: AnimationHelpers.OneShotSquence.Reverse
+  name: Reverse()
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_Reverse
+  commentId: M:AnimationHelpers.OneShotSquence.Reverse
+  fullName: AnimationHelpers.OneShotSquence.Reverse()
+  nameWithType: OneShotSquence.Reverse()
+- uid: AnimationHelpers.OneShotSquence.Reverse*
+  name: Reverse
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_Reverse_
+  commentId: Overload:AnimationHelpers.OneShotSquence.Reverse
+  isSpec: "True"
+  fullName: AnimationHelpers.OneShotSquence.Reverse
+  nameWithType: OneShotSquence.Reverse
+- uid: AnimationHelpers.OneShotSquence.StartManualAnimation
+  name: StartManualAnimation()
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_StartManualAnimation
+  commentId: M:AnimationHelpers.OneShotSquence.StartManualAnimation
+  fullName: AnimationHelpers.OneShotSquence.StartManualAnimation()
+  nameWithType: OneShotSquence.StartManualAnimation()
+- uid: AnimationHelpers.OneShotSquence.StartManualAnimation*
+  name: StartManualAnimation
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_StartManualAnimation_
+  commentId: Overload:AnimationHelpers.OneShotSquence.StartManualAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.OneShotSquence.StartManualAnimation
+  nameWithType: OneShotSquence.StartManualAnimation
+- uid: AnimationHelpers.OneShotSquence.UpdateAnimation
+  name: UpdateAnimation()
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_UpdateAnimation
+  commentId: M:AnimationHelpers.OneShotSquence.UpdateAnimation
+  fullName: AnimationHelpers.OneShotSquence.UpdateAnimation()
+  nameWithType: OneShotSquence.UpdateAnimation()
+- uid: AnimationHelpers.OneShotSquence.UpdateAnimation*
+  name: UpdateAnimation
+  href: api/AnimationHelpers.OneShotSquence.html#AnimationHelpers_OneShotSquence_UpdateAnimation_
+  commentId: Overload:AnimationHelpers.OneShotSquence.UpdateAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.OneShotSquence.UpdateAnimation
+  nameWithType: OneShotSquence.UpdateAnimation
+- uid: AnimationHelpers.SpeedAnimationSequence
+  name: SpeedAnimationSequence
+  href: api/AnimationHelpers.SpeedAnimationSequence.html
+  commentId: T:AnimationHelpers.SpeedAnimationSequence
+  fullName: AnimationHelpers.SpeedAnimationSequence
+  nameWithType: SpeedAnimationSequence
+- uid: AnimationHelpers.SpeedAnimationSequence.#ctor(System.Single,System.Single,System.Boolean)
+  name: SpeedAnimationSequence(Single, Single, Boolean)
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence__ctor_System_Single_System_Single_System_Boolean_
+  commentId: M:AnimationHelpers.SpeedAnimationSequence.#ctor(System.Single,System.Single,System.Boolean)
+  fullName: AnimationHelpers.SpeedAnimationSequence.SpeedAnimationSequence(System.Single, System.Single, System.Boolean)
+  nameWithType: SpeedAnimationSequence.SpeedAnimationSequence(Single, Single, Boolean)
+- uid: AnimationHelpers.SpeedAnimationSequence.#ctor*
+  name: SpeedAnimationSequence
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence__ctor_
+  commentId: Overload:AnimationHelpers.SpeedAnimationSequence.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.SpeedAnimationSequence.SpeedAnimationSequence
+  nameWithType: SpeedAnimationSequence.SpeedAnimationSequence
+- uid: AnimationHelpers.SpeedAnimationSequence._speed
+  name: _speed
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence__speed
+  commentId: F:AnimationHelpers.SpeedAnimationSequence._speed
+  fullName: AnimationHelpers.SpeedAnimationSequence._speed
+  nameWithType: SpeedAnimationSequence._speed
+- uid: AnimationHelpers.SpeedAnimationSequence._travelDistance
+  name: _travelDistance
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence__travelDistance
+  commentId: F:AnimationHelpers.SpeedAnimationSequence._travelDistance
+  fullName: AnimationHelpers.SpeedAnimationSequence._travelDistance
+  nameWithType: SpeedAnimationSequence._travelDistance
+- uid: AnimationHelpers.SpeedAnimationSequence.AnimationStep(System.Single)
+  name: AnimationStep(Single)
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_AnimationStep_System_Single_
+  commentId: M:AnimationHelpers.SpeedAnimationSequence.AnimationStep(System.Single)
+  fullName: AnimationHelpers.SpeedAnimationSequence.AnimationStep(System.Single)
+  nameWithType: SpeedAnimationSequence.AnimationStep(Single)
+- uid: AnimationHelpers.SpeedAnimationSequence.AnimationStep*
+  name: AnimationStep
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_AnimationStep_
+  commentId: Overload:AnimationHelpers.SpeedAnimationSequence.AnimationStep
+  isSpec: "True"
+  fullName: AnimationHelpers.SpeedAnimationSequence.AnimationStep
+  nameWithType: SpeedAnimationSequence.AnimationStep
+- uid: AnimationHelpers.SpeedAnimationSequence.ConstructCoroutine
+  name: ConstructCoroutine()
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_ConstructCoroutine
+  commentId: M:AnimationHelpers.SpeedAnimationSequence.ConstructCoroutine
+  fullName: AnimationHelpers.SpeedAnimationSequence.ConstructCoroutine()
+  nameWithType: SpeedAnimationSequence.ConstructCoroutine()
+- uid: AnimationHelpers.SpeedAnimationSequence.ConstructCoroutine*
+  name: ConstructCoroutine
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_ConstructCoroutine_
+  commentId: Overload:AnimationHelpers.SpeedAnimationSequence.ConstructCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.SpeedAnimationSequence.ConstructCoroutine
+  nameWithType: SpeedAnimationSequence.ConstructCoroutine
+- uid: AnimationHelpers.SpeedAnimationSequence.Reverse
+  name: Reverse()
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_Reverse
+  commentId: M:AnimationHelpers.SpeedAnimationSequence.Reverse
+  fullName: AnimationHelpers.SpeedAnimationSequence.Reverse()
+  nameWithType: SpeedAnimationSequence.Reverse()
+- uid: AnimationHelpers.SpeedAnimationSequence.Reverse*
+  name: Reverse
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_Reverse_
+  commentId: Overload:AnimationHelpers.SpeedAnimationSequence.Reverse
+  isSpec: "True"
+  fullName: AnimationHelpers.SpeedAnimationSequence.Reverse
+  nameWithType: SpeedAnimationSequence.Reverse
+- uid: AnimationHelpers.SpeedAnimationSequence.StartManualAnimation
+  name: StartManualAnimation()
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_StartManualAnimation
+  commentId: M:AnimationHelpers.SpeedAnimationSequence.StartManualAnimation
+  fullName: AnimationHelpers.SpeedAnimationSequence.StartManualAnimation()
+  nameWithType: SpeedAnimationSequence.StartManualAnimation()
+- uid: AnimationHelpers.SpeedAnimationSequence.StartManualAnimation*
+  name: StartManualAnimation
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_StartManualAnimation_
+  commentId: Overload:AnimationHelpers.SpeedAnimationSequence.StartManualAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.SpeedAnimationSequence.StartManualAnimation
+  nameWithType: SpeedAnimationSequence.StartManualAnimation
+- uid: AnimationHelpers.SpeedAnimationSequence.UpdateAnimation
+  name: UpdateAnimation()
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_UpdateAnimation
+  commentId: M:AnimationHelpers.SpeedAnimationSequence.UpdateAnimation
+  fullName: AnimationHelpers.SpeedAnimationSequence.UpdateAnimation()
+  nameWithType: SpeedAnimationSequence.UpdateAnimation()
+- uid: AnimationHelpers.SpeedAnimationSequence.UpdateAnimation*
+  name: UpdateAnimation
+  href: api/AnimationHelpers.SpeedAnimationSequence.html#AnimationHelpers_SpeedAnimationSequence_UpdateAnimation_
+  commentId: Overload:AnimationHelpers.SpeedAnimationSequence.UpdateAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.SpeedAnimationSequence.UpdateAnimation
+  nameWithType: SpeedAnimationSequence.UpdateAnimation
+- uid: AnimationHelpers.TextAnimator
+  name: TextAnimator
+  href: api/AnimationHelpers.TextAnimator.html
+  commentId: T:AnimationHelpers.TextAnimator
+  fullName: AnimationHelpers.TextAnimator
+  nameWithType: TextAnimator
+- uid: AnimationHelpers.TextAnimator.#ctor
+  name: TextAnimator()
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator__ctor
+  commentId: M:AnimationHelpers.TextAnimator.#ctor
+  fullName: AnimationHelpers.TextAnimator.TextAnimator()
+  nameWithType: TextAnimator.TextAnimator()
+- uid: AnimationHelpers.TextAnimator.#ctor*
+  name: TextAnimator
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator__ctor_
+  commentId: Overload:AnimationHelpers.TextAnimator.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.TextAnimator.TextAnimator
+  nameWithType: TextAnimator.TextAnimator
+- uid: AnimationHelpers.TextAnimator.AddAction(AnimationHelpers.TextAnimator.TextAnimationAction)
+  name: AddAction(TextAnimator.TextAnimationAction)
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_AddAction_AnimationHelpers_TextAnimator_TextAnimationAction_
+  commentId: M:AnimationHelpers.TextAnimator.AddAction(AnimationHelpers.TextAnimator.TextAnimationAction)
+  fullName: AnimationHelpers.TextAnimator.AddAction(AnimationHelpers.TextAnimator.TextAnimationAction)
+  nameWithType: TextAnimator.AddAction(TextAnimator.TextAnimationAction)
+- uid: AnimationHelpers.TextAnimator.AddAction*
+  name: AddAction
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_AddAction_
+  commentId: Overload:AnimationHelpers.TextAnimator.AddAction
+  isSpec: "True"
+  fullName: AnimationHelpers.TextAnimator.AddAction
+  nameWithType: TextAnimator.AddAction
+- uid: AnimationHelpers.TextAnimator.Create(TMP_Text,System.Single,System.Single,System.Boolean)
+  name: Create(TMP_Text, Single, Single, Boolean)
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Create_TMP_Text_System_Single_System_Single_System_Boolean_
+  commentId: M:AnimationHelpers.TextAnimator.Create(TMP_Text,System.Single,System.Single,System.Boolean)
+  fullName: AnimationHelpers.TextAnimator.Create(TMP_Text, System.Single, System.Single, System.Boolean)
+  nameWithType: TextAnimator.Create(TMP_Text, Single, Single, Boolean)
+- uid: AnimationHelpers.TextAnimator.Create*
+  name: Create
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Create_
+  commentId: Overload:AnimationHelpers.TextAnimator.Create
+  isSpec: "True"
+  fullName: AnimationHelpers.TextAnimator.Create
+  nameWithType: TextAnimator.Create
+- uid: AnimationHelpers.TextAnimator.CurrentCoroutine
+  name: CurrentCoroutine
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_CurrentCoroutine
+  commentId: P:AnimationHelpers.TextAnimator.CurrentCoroutine
+  fullName: AnimationHelpers.TextAnimator.CurrentCoroutine
+  nameWithType: TextAnimator.CurrentCoroutine
+- uid: AnimationHelpers.TextAnimator.CurrentCoroutine*
+  name: CurrentCoroutine
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_CurrentCoroutine_
+  commentId: Overload:AnimationHelpers.TextAnimator.CurrentCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.TextAnimator.CurrentCoroutine
+  nameWithType: TextAnimator.CurrentCoroutine
+- uid: AnimationHelpers.TextAnimator.Dispose
+  name: Dispose()
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Dispose
+  commentId: M:AnimationHelpers.TextAnimator.Dispose
+  fullName: AnimationHelpers.TextAnimator.Dispose()
+  nameWithType: TextAnimator.Dispose()
+- uid: AnimationHelpers.TextAnimator.Dispose*
+  name: Dispose
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Dispose_
+  commentId: Overload:AnimationHelpers.TextAnimator.Dispose
+  isSpec: "True"
+  fullName: AnimationHelpers.TextAnimator.Dispose
+  nameWithType: TextAnimator.Dispose
+- uid: AnimationHelpers.TextAnimator.Execute
+  name: Execute()
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Execute
+  commentId: M:AnimationHelpers.TextAnimator.Execute
+  fullName: AnimationHelpers.TextAnimator.Execute()
+  nameWithType: TextAnimator.Execute()
+- uid: AnimationHelpers.TextAnimator.Execute*
+  name: Execute
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Execute_
+  commentId: Overload:AnimationHelpers.TextAnimator.Execute
+  isSpec: "True"
+  fullName: AnimationHelpers.TextAnimator.Execute
+  nameWithType: TextAnimator.Execute
+- uid: AnimationHelpers.TextAnimator.Stop
+  name: Stop()
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Stop
+  commentId: M:AnimationHelpers.TextAnimator.Stop
+  fullName: AnimationHelpers.TextAnimator.Stop()
+  nameWithType: TextAnimator.Stop()
+- uid: AnimationHelpers.TextAnimator.Stop*
+  name: Stop
+  href: api/AnimationHelpers.TextAnimator.html#AnimationHelpers_TextAnimator_Stop_
+  commentId: Overload:AnimationHelpers.TextAnimator.Stop
+  isSpec: "True"
+  fullName: AnimationHelpers.TextAnimator.Stop
+  nameWithType: TextAnimator.Stop
+- uid: AnimationHelpers.TextAnimator.TextAnimationAction
+  name: TextAnimator.TextAnimationAction
+  href: api/AnimationHelpers.TextAnimator.TextAnimationAction.html
+  commentId: T:AnimationHelpers.TextAnimator.TextAnimationAction
+  fullName: AnimationHelpers.TextAnimator.TextAnimationAction
+  nameWithType: TextAnimator.TextAnimationAction
+- uid: AnimationHelpers.TmpProExtention
+  name: TmpProExtention
+  href: api/AnimationHelpers.TmpProExtention.html
+  commentId: T:AnimationHelpers.TmpProExtention
+  fullName: AnimationHelpers.TmpProExtention
+  nameWithType: TmpProExtention
+- uid: AnimationHelpers.TmpProExtention.TypeWriteText(TMP_Text,System.Single,System.Single,System.Boolean)
+  name: TypeWriteText(TMP_Text, Single, Single, Boolean)
+  href: api/AnimationHelpers.TmpProExtention.html#AnimationHelpers_TmpProExtention_TypeWriteText_TMP_Text_System_Single_System_Single_System_Boolean_
+  commentId: M:AnimationHelpers.TmpProExtention.TypeWriteText(TMP_Text,System.Single,System.Single,System.Boolean)
+  fullName: AnimationHelpers.TmpProExtention.TypeWriteText(TMP_Text, System.Single, System.Single, System.Boolean)
+  nameWithType: TmpProExtention.TypeWriteText(TMP_Text, Single, Single, Boolean)
+- uid: AnimationHelpers.TmpProExtention.TypeWriteText*
+  name: TypeWriteText
+  href: api/AnimationHelpers.TmpProExtention.html#AnimationHelpers_TmpProExtention_TypeWriteText_
+  commentId: Overload:AnimationHelpers.TmpProExtention.TypeWriteText
+  isSpec: "True"
+  fullName: AnimationHelpers.TmpProExtention.TypeWriteText
+  nameWithType: TmpProExtention.TypeWriteText
+- uid: AnimationHelpers.TransformAnimator
+  name: TransformAnimator
+  href: api/AnimationHelpers.TransformAnimator.html
+  commentId: T:AnimationHelpers.TransformAnimator
+  fullName: AnimationHelpers.TransformAnimator
+  nameWithType: TransformAnimator
+- uid: AnimationHelpers.TransformAnimator.Create(Transform)
+  name: Create(Transform)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Create_Transform_
+  commentId: M:AnimationHelpers.TransformAnimator.Create(Transform)
+  fullName: AnimationHelpers.TransformAnimator.Create(Transform)
+  nameWithType: TransformAnimator.Create(Transform)
+- uid: AnimationHelpers.TransformAnimator.Create*
+  name: Create
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Create_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Create
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Create
+  nameWithType: TransformAnimator.Create
+- uid: AnimationHelpers.TransformAnimator.CurrentCoroutine
+  name: CurrentCoroutine
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_CurrentCoroutine
+  commentId: P:AnimationHelpers.TransformAnimator.CurrentCoroutine
+  fullName: AnimationHelpers.TransformAnimator.CurrentCoroutine
+  nameWithType: TransformAnimator.CurrentCoroutine
+- uid: AnimationHelpers.TransformAnimator.CurrentCoroutine*
+  name: CurrentCoroutine
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_CurrentCoroutine_
+  commentId: Overload:AnimationHelpers.TransformAnimator.CurrentCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.CurrentCoroutine
+  nameWithType: TransformAnimator.CurrentCoroutine
+- uid: AnimationHelpers.TransformAnimator.Dispose
+  name: Dispose()
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Dispose
+  commentId: M:AnimationHelpers.TransformAnimator.Dispose
+  fullName: AnimationHelpers.TransformAnimator.Dispose()
+  nameWithType: TransformAnimator.Dispose()
+- uid: AnimationHelpers.TransformAnimator.Dispose*
+  name: Dispose
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Dispose_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Dispose
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Dispose
+  nameWithType: TransformAnimator.Dispose
+- uid: AnimationHelpers.TransformAnimator.Do(Action)
+  name: Do(Action)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Do_Action_
+  commentId: M:AnimationHelpers.TransformAnimator.Do(Action)
+  fullName: AnimationHelpers.TransformAnimator.Do(Action)
+  nameWithType: TransformAnimator.Do(Action)
+- uid: AnimationHelpers.TransformAnimator.Do*
+  name: Do
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Do_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Do
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Do
+  nameWithType: TransformAnimator.Do
+- uid: AnimationHelpers.TransformAnimator.Execute
+  name: Execute()
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Execute
+  commentId: M:AnimationHelpers.TransformAnimator.Execute
+  fullName: AnimationHelpers.TransformAnimator.Execute()
+  nameWithType: TransformAnimator.Execute()
+- uid: AnimationHelpers.TransformAnimator.Execute*
+  name: Execute
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Execute_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Execute
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Execute
+  nameWithType: TransformAnimator.Execute
+- uid: AnimationHelpers.TransformAnimator.IsRunning
+  name: IsRunning
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_IsRunning
+  commentId: P:AnimationHelpers.TransformAnimator.IsRunning
+  fullName: AnimationHelpers.TransformAnimator.IsRunning
+  nameWithType: TransformAnimator.IsRunning
+- uid: AnimationHelpers.TransformAnimator.IsRunning*
+  name: IsRunning
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_IsRunning_
+  commentId: Overload:AnimationHelpers.TransformAnimator.IsRunning
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.IsRunning
+  nameWithType: TransformAnimator.IsRunning
+- uid: AnimationHelpers.TransformAnimator.LocalMove(Vector3,System.Single,Func{System.Single,System.Single})
+  name: LocalMove(Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMove_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalMove(Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalMove(Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalMove(Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalMove(Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalMove(Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalMove(Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalMove(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: LocalMove(Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMove_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalMove(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalMove(Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalMove(Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalMove(Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalMove(Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalMove(Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalMove*
+  name: LocalMove
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMove_
+  commentId: Overload:AnimationHelpers.TransformAnimator.LocalMove
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.LocalMove
+  nameWithType: TransformAnimator.LocalMove
+- uid: AnimationHelpers.TransformAnimator.LocalMovePath(IList{Vector3},IList{System.Single},Func{System.Single,System.Single})
+  name: LocalMovePath(IList<Vector3>, IList<Single>, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMovePath_IList_Vector3__IList_System_Single__Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalMovePath(IList{Vector3},IList{System.Single},Func{System.Single,System.Single})
+  name.vb: LocalMovePath(IList(Of Vector3), IList(Of Single), Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalMovePath(IList<Vector3>, IList<System.Single>, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalMovePath(IList(Of Vector3), IList(Of System.Single), Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalMovePath(IList<Vector3>, IList<Single>, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalMovePath(IList(Of Vector3), IList(Of Single), Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalMovePath(IList{Vector3},System.Single,Func{System.Single,System.Single})
+  name: LocalMovePath(IList<Vector3>, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMovePath_IList_Vector3__System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalMovePath(IList{Vector3},System.Single,Func{System.Single,System.Single})
+  name.vb: LocalMovePath(IList(Of Vector3), Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalMovePath(IList<Vector3>, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalMovePath(IList(Of Vector3), System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalMovePath(IList<Vector3>, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalMovePath(IList(Of Vector3), Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalMovePath(System.Single,Func{System.Single,System.Single},Vector3[])
+  name: LocalMovePath(Single, Func<Single, Single>, Vector3[])
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMovePath_System_Single_Func_System_Single_System_Single__Vector3___
+  commentId: M:AnimationHelpers.TransformAnimator.LocalMovePath(System.Single,Func{System.Single,System.Single},Vector3[])
+  name.vb: LocalMovePath(Single, Func(Of Single, Single), Vector3())
+  fullName: AnimationHelpers.TransformAnimator.LocalMovePath(System.Single, Func<System.Single, System.Single>, Vector3[])
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalMovePath(System.Single, Func(Of System.Single, System.Single), Vector3())
+  nameWithType: TransformAnimator.LocalMovePath(Single, Func<Single, Single>, Vector3[])
+  nameWithType.vb: TransformAnimator.LocalMovePath(Single, Func(Of Single, Single), Vector3())
+- uid: AnimationHelpers.TransformAnimator.LocalMovePath*
+  name: LocalMovePath
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMovePath_
+  commentId: Overload:AnimationHelpers.TransformAnimator.LocalMovePath
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.LocalMovePath
+  nameWithType: TransformAnimator.LocalMovePath
+- uid: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3,System.Single,Func{System.Single,System.Single})
+  name: LocalMoveWithSpeed(Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMoveWithSpeed_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalMoveWithSpeed(Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalMoveWithSpeed(Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalMoveWithSpeed(Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: LocalMoveWithSpeed(Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMoveWithSpeed_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalMoveWithSpeed(Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed(Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalMoveWithSpeed(Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalMoveWithSpeed(Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed*
+  name: LocalMoveWithSpeed
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMoveWithSpeed_
+  commentId: Overload:AnimationHelpers.TransformAnimator.LocalMoveWithSpeed
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.LocalMoveWithSpeed
+  nameWithType: TransformAnimator.LocalMoveWithSpeed
+- uid: AnimationHelpers.TransformAnimator.LocalRotate(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name: LocalRotate(Quaternion, Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalRotate_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalRotate(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalRotate(Quaternion, Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalRotate(Quaternion, Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalRotate(Quaternion, Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalRotate(Quaternion, Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalRotate(Quaternion, Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalRotate(Quaternion,System.Single,Func{System.Single,System.Single})
+  name: LocalRotate(Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalRotate_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalRotate(Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalRotate(Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalRotate(Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalRotate(Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalRotate(Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalRotate(Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalRotate*
+  name: LocalRotate
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalRotate_
+  commentId: Overload:AnimationHelpers.TransformAnimator.LocalRotate
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.LocalRotate
+  nameWithType: TransformAnimator.LocalRotate
+- uid: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name: LocalRotateWithSpeed(Quaternion, Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalRotateWithSpeed_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalRotateWithSpeed(Quaternion, Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion, Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion, Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalRotateWithSpeed(Quaternion, Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalRotateWithSpeed(Quaternion, Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion,System.Single,Func{System.Single,System.Single})
+  name: LocalRotateWithSpeed(Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalRotateWithSpeed_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: LocalRotateWithSpeed(Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed(Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.LocalRotateWithSpeed(Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.LocalRotateWithSpeed(Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed*
+  name: LocalRotateWithSpeed
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalRotateWithSpeed_
+  commentId: Overload:AnimationHelpers.TransformAnimator.LocalRotateWithSpeed
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.LocalRotateWithSpeed
+  nameWithType: TransformAnimator.LocalRotateWithSpeed
+- uid: AnimationHelpers.TransformAnimator.LoopExecute
+  name: LoopExecute()
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LoopExecute
+  commentId: M:AnimationHelpers.TransformAnimator.LoopExecute
+  fullName: AnimationHelpers.TransformAnimator.LoopExecute()
+  nameWithType: TransformAnimator.LoopExecute()
+- uid: AnimationHelpers.TransformAnimator.LoopExecute(System.Int32)
+  name: LoopExecute(Int32)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LoopExecute_System_Int32_
+  commentId: M:AnimationHelpers.TransformAnimator.LoopExecute(System.Int32)
+  fullName: AnimationHelpers.TransformAnimator.LoopExecute(System.Int32)
+  nameWithType: TransformAnimator.LoopExecute(Int32)
+- uid: AnimationHelpers.TransformAnimator.LoopExecute*
+  name: LoopExecute
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LoopExecute_
+  commentId: Overload:AnimationHelpers.TransformAnimator.LoopExecute
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.LoopExecute
+  nameWithType: TransformAnimator.LoopExecute
+- uid: AnimationHelpers.TransformAnimator.Move(Vector3,System.Single,Func{System.Single,System.Single})
+  name: Move(Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Move_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.Move(Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: Move(Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.Move(Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.Move(Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.Move(Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.Move(Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.Move(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: Move(Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Move_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.Move(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: Move(Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.Move(Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.Move(Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.Move(Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.Move(Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.Move*
+  name: Move
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Move_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Move
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Move
+  nameWithType: TransformAnimator.Move
+- uid: AnimationHelpers.TransformAnimator.MovePath(IList{Vector3},IList{System.Single},Func{System.Single,System.Single})
+  name: MovePath(IList<Vector3>, IList<Single>, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_MovePath_IList_Vector3__IList_System_Single__Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.MovePath(IList{Vector3},IList{System.Single},Func{System.Single,System.Single})
+  name.vb: MovePath(IList(Of Vector3), IList(Of Single), Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.MovePath(IList<Vector3>, IList<System.Single>, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.MovePath(IList(Of Vector3), IList(Of System.Single), Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.MovePath(IList<Vector3>, IList<Single>, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.MovePath(IList(Of Vector3), IList(Of Single), Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.MovePath(IList{Vector3},System.Single,Func{System.Single,System.Single})
+  name: MovePath(IList<Vector3>, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_MovePath_IList_Vector3__System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.MovePath(IList{Vector3},System.Single,Func{System.Single,System.Single})
+  name.vb: MovePath(IList(Of Vector3), Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.MovePath(IList<Vector3>, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.MovePath(IList(Of Vector3), System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.MovePath(IList<Vector3>, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.MovePath(IList(Of Vector3), Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.MovePath(System.Single,Func{System.Single,System.Single},Vector3[])
+  name: MovePath(Single, Func<Single, Single>, Vector3[])
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_MovePath_System_Single_Func_System_Single_System_Single__Vector3___
+  commentId: M:AnimationHelpers.TransformAnimator.MovePath(System.Single,Func{System.Single,System.Single},Vector3[])
+  name.vb: MovePath(Single, Func(Of Single, Single), Vector3())
+  fullName: AnimationHelpers.TransformAnimator.MovePath(System.Single, Func<System.Single, System.Single>, Vector3[])
+  fullName.vb: AnimationHelpers.TransformAnimator.MovePath(System.Single, Func(Of System.Single, System.Single), Vector3())
+  nameWithType: TransformAnimator.MovePath(Single, Func<Single, Single>, Vector3[])
+  nameWithType.vb: TransformAnimator.MovePath(Single, Func(Of Single, Single), Vector3())
+- uid: AnimationHelpers.TransformAnimator.MovePath*
+  name: MovePath
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_MovePath_
+  commentId: Overload:AnimationHelpers.TransformAnimator.MovePath
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.MovePath
+  nameWithType: TransformAnimator.MovePath
+- uid: AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3,System.Single,Func{System.Single,System.Single})
+  name: MoveWithSpeed(Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_MoveWithSpeed_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: MoveWithSpeed(Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.MoveWithSpeed(Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.MoveWithSpeed(Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: MoveWithSpeed(Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_MoveWithSpeed_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: MoveWithSpeed(Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.MoveWithSpeed(Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.MoveWithSpeed(Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.MoveWithSpeed(Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.MoveWithSpeed*
+  name: MoveWithSpeed
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_MoveWithSpeed_
+  commentId: Overload:AnimationHelpers.TransformAnimator.MoveWithSpeed
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.MoveWithSpeed
+  nameWithType: TransformAnimator.MoveWithSpeed
+- uid: AnimationHelpers.TransformAnimator.Rotate(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name: Rotate(Quaternion, Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Rotate_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.Rotate(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: Rotate(Quaternion, Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.Rotate(Quaternion, Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.Rotate(Quaternion, Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.Rotate(Quaternion, Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.Rotate(Quaternion, Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.Rotate(Quaternion,System.Single,Func{System.Single,System.Single})
+  name: Rotate(Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Rotate_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.Rotate(Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: Rotate(Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.Rotate(Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.Rotate(Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.Rotate(Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.Rotate(Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.Rotate*
+  name: Rotate
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Rotate_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Rotate
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Rotate
+  nameWithType: TransformAnimator.Rotate
+- uid: AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name: RotateWithSpeed(Quaternion, Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_RotateWithSpeed_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: RotateWithSpeed(Quaternion, Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion, Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion, Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.RotateWithSpeed(Quaternion, Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.RotateWithSpeed(Quaternion, Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion,System.Single,Func{System.Single,System.Single})
+  name: RotateWithSpeed(Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_RotateWithSpeed_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: RotateWithSpeed(Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.RotateWithSpeed(Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.RotateWithSpeed(Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.RotateWithSpeed(Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.RotateWithSpeed*
+  name: RotateWithSpeed
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_RotateWithSpeed_
+  commentId: Overload:AnimationHelpers.TransformAnimator.RotateWithSpeed
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.RotateWithSpeed
+  nameWithType: TransformAnimator.RotateWithSpeed
+- uid: AnimationHelpers.TransformAnimator.Scale(Vector3,System.Single,Func{System.Single,System.Single})
+  name: Scale(Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Scale_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.Scale(Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: Scale(Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.Scale(Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.Scale(Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.Scale(Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.Scale(Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.Scale(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: Scale(Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Scale_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.Scale(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: Scale(Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.Scale(Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.Scale(Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.Scale(Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.Scale(Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.Scale*
+  name: Scale
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Scale_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Scale
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Scale
+  nameWithType: TransformAnimator.Scale
+- uid: AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3,System.Single,Func{System.Single,System.Single})
+  name: ScaleWithSpeed(Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_ScaleWithSpeed_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: ScaleWithSpeed(Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.ScaleWithSpeed(Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.ScaleWithSpeed(Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: ScaleWithSpeed(Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_ScaleWithSpeed_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: ScaleWithSpeed(Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimator.ScaleWithSpeed(Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimator.ScaleWithSpeed(Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimator.ScaleWithSpeed(Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimator.ScaleWithSpeed*
+  name: ScaleWithSpeed
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_ScaleWithSpeed_
+  commentId: Overload:AnimationHelpers.TransformAnimator.ScaleWithSpeed
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.ScaleWithSpeed
+  nameWithType: TransformAnimator.ScaleWithSpeed
+- uid: AnimationHelpers.TransformAnimator.Sequence(System.Single)
+  name: Sequence(Single)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Sequence_System_Single_
+  commentId: M:AnimationHelpers.TransformAnimator.Sequence(System.Single)
+  fullName: AnimationHelpers.TransformAnimator.Sequence(System.Single)
+  nameWithType: TransformAnimator.Sequence(Single)
+- uid: AnimationHelpers.TransformAnimator.Sequence*
+  name: Sequence
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Sequence_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Sequence
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Sequence
+  nameWithType: TransformAnimator.Sequence
+- uid: AnimationHelpers.TransformAnimator.Stop
+  name: Stop()
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Stop
+  commentId: M:AnimationHelpers.TransformAnimator.Stop
+  fullName: AnimationHelpers.TransformAnimator.Stop()
+  nameWithType: TransformAnimator.Stop()
+- uid: AnimationHelpers.TransformAnimator.Stop*
+  name: Stop
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Stop_
+  commentId: Overload:AnimationHelpers.TransformAnimator.Stop
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.Stop
+  nameWithType: TransformAnimator.Stop
+- uid: AnimationHelpers.TransformAnimator.WaitForCondition(AnimationHelpers.WaitForCondition.TimePredicate)
+  name: WaitForCondition(WaitForCondition.TimePredicate)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_WaitForCondition_AnimationHelpers_WaitForCondition_TimePredicate_
+  commentId: M:AnimationHelpers.TransformAnimator.WaitForCondition(AnimationHelpers.WaitForCondition.TimePredicate)
+  fullName: AnimationHelpers.TransformAnimator.WaitForCondition(AnimationHelpers.WaitForCondition.TimePredicate)
+  nameWithType: TransformAnimator.WaitForCondition(WaitForCondition.TimePredicate)
+- uid: AnimationHelpers.TransformAnimator.WaitForCondition*
+  name: WaitForCondition
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_WaitForCondition_
+  commentId: Overload:AnimationHelpers.TransformAnimator.WaitForCondition
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.WaitForCondition
+  nameWithType: TransformAnimator.WaitForCondition
+- uid: AnimationHelpers.TransformAnimator.WaitForSeconds(System.Single)
+  name: WaitForSeconds(Single)
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_WaitForSeconds_System_Single_
+  commentId: M:AnimationHelpers.TransformAnimator.WaitForSeconds(System.Single)
+  fullName: AnimationHelpers.TransformAnimator.WaitForSeconds(System.Single)
+  nameWithType: TransformAnimator.WaitForSeconds(Single)
+- uid: AnimationHelpers.TransformAnimator.WaitForSeconds*
+  name: WaitForSeconds
+  href: api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_WaitForSeconds_
+  commentId: Overload:AnimationHelpers.TransformAnimator.WaitForSeconds
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimator.WaitForSeconds
+  nameWithType: TransformAnimator.WaitForSeconds
+- uid: AnimationHelpers.TransformAnimatorDurationSequence
+  name: TransformAnimatorDurationSequence
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html
+  commentId: T:AnimationHelpers.TransformAnimatorDurationSequence
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence
+  nameWithType: TransformAnimatorDurationSequence
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.#ctor(AnimationHelpers.TransformAnimator,System.Single)
+  name: TransformAnimatorDurationSequence(TransformAnimator, Single)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence__ctor_AnimationHelpers_TransformAnimator_System_Single_
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.#ctor(AnimationHelpers.TransformAnimator,System.Single)
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.TransformAnimatorDurationSequence(AnimationHelpers.TransformAnimator, System.Single)
+  nameWithType: TransformAnimatorDurationSequence.TransformAnimatorDurationSequence(TransformAnimator, Single)
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.#ctor*
+  name: TransformAnimatorDurationSequence
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence__ctor_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.TransformAnimatorDurationSequence
+  nameWithType: TransformAnimatorDurationSequence.TransformAnimatorDurationSequence
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.AnimationStep(System.Single)
+  name: AnimationStep(Single)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_AnimationStep_System_Single_
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.AnimationStep(System.Single)
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.AnimationStep(System.Single)
+  nameWithType: TransformAnimatorDurationSequence.AnimationStep(Single)
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.AnimationStep*
+  name: AnimationStep
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_AnimationStep_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.AnimationStep
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.AnimationStep
+  nameWithType: TransformAnimatorDurationSequence.AnimationStep
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Custom(Action{System.Single})
+  name: Custom(Action<Single>)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Custom_Action_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.Custom(Action{System.Single})
+  name.vb: Custom(Action(Of Single))
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Custom(Action<System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorDurationSequence.Custom(Action(Of System.Single))
+  nameWithType: TransformAnimatorDurationSequence.Custom(Action<Single>)
+  nameWithType.vb: TransformAnimatorDurationSequence.Custom(Action(Of Single))
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Custom*
+  name: Custom
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Custom_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.Custom
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Custom
+  nameWithType: TransformAnimatorDurationSequence.Custom
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Done
+  name: Done()
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Done
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.Done
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Done()
+  nameWithType: TransformAnimatorDurationSequence.Done()
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Done*
+  name: Done
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Done_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.Done
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Done
+  nameWithType: TransformAnimatorDurationSequence.Done
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.LocalMove(Vector3,Vector3,Func{System.Single,System.Single})
+  name: LocalMove(Vector3, Vector3, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_LocalMove_Vector3_Vector3_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.LocalMove(Vector3,Vector3,Func{System.Single,System.Single})
+  name.vb: LocalMove(Vector3, Vector3, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.LocalMove(Vector3, Vector3, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorDurationSequence.LocalMove(Vector3, Vector3, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorDurationSequence.LocalMove(Vector3, Vector3, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorDurationSequence.LocalMove(Vector3, Vector3, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.LocalMove*
+  name: LocalMove
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_LocalMove_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.LocalMove
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.LocalMove
+  nameWithType: TransformAnimatorDurationSequence.LocalMove
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.LocalRotate(Quaternion,Quaternion,Func{System.Single,System.Single})
+  name: LocalRotate(Quaternion, Quaternion, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_LocalRotate_Quaternion_Quaternion_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.LocalRotate(Quaternion,Quaternion,Func{System.Single,System.Single})
+  name.vb: LocalRotate(Quaternion, Quaternion, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.LocalRotate(Quaternion, Quaternion, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorDurationSequence.LocalRotate(Quaternion, Quaternion, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorDurationSequence.LocalRotate(Quaternion, Quaternion, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorDurationSequence.LocalRotate(Quaternion, Quaternion, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.LocalRotate*
+  name: LocalRotate
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_LocalRotate_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.LocalRotate
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.LocalRotate
+  nameWithType: TransformAnimatorDurationSequence.LocalRotate
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Move(Vector3,Vector3,Func{System.Single,System.Single})
+  name: Move(Vector3, Vector3, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Move_Vector3_Vector3_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.Move(Vector3,Vector3,Func{System.Single,System.Single})
+  name.vb: Move(Vector3, Vector3, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Move(Vector3, Vector3, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorDurationSequence.Move(Vector3, Vector3, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorDurationSequence.Move(Vector3, Vector3, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorDurationSequence.Move(Vector3, Vector3, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Move*
+  name: Move
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Move_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.Move
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Move
+  nameWithType: TransformAnimatorDurationSequence.Move
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Rotate(Quaternion,Quaternion,Func{System.Single,System.Single})
+  name: Rotate(Quaternion, Quaternion, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Rotate_Quaternion_Quaternion_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.Rotate(Quaternion,Quaternion,Func{System.Single,System.Single})
+  name.vb: Rotate(Quaternion, Quaternion, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Rotate(Quaternion, Quaternion, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorDurationSequence.Rotate(Quaternion, Quaternion, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorDurationSequence.Rotate(Quaternion, Quaternion, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorDurationSequence.Rotate(Quaternion, Quaternion, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Rotate*
+  name: Rotate
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Rotate_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.Rotate
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Rotate
+  nameWithType: TransformAnimatorDurationSequence.Rotate
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Scale(Vector3,Vector3,Func{System.Single,System.Single})
+  name: Scale(Vector3, Vector3, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Scale_Vector3_Vector3_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorDurationSequence.Scale(Vector3,Vector3,Func{System.Single,System.Single})
+  name.vb: Scale(Vector3, Vector3, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Scale(Vector3, Vector3, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorDurationSequence.Scale(Vector3, Vector3, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorDurationSequence.Scale(Vector3, Vector3, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorDurationSequence.Scale(Vector3, Vector3, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorDurationSequence.Scale*
+  name: Scale
+  href: api/AnimationHelpers.TransformAnimatorDurationSequence.html#AnimationHelpers_TransformAnimatorDurationSequence_Scale_
+  commentId: Overload:AnimationHelpers.TransformAnimatorDurationSequence.Scale
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorDurationSequence.Scale
+  nameWithType: TransformAnimatorDurationSequence.Scale
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence
+  name: TransformAnimatorSpeedSequence
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html
+  commentId: T:AnimationHelpers.TransformAnimatorSpeedSequence
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence
+  nameWithType: TransformAnimatorSpeedSequence
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep(System.Single)
+  name: AnimationStep(Single)
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_AnimationStep_System_Single_
+  commentId: M:AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep(System.Single)
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep(System.Single)
+  nameWithType: TransformAnimatorSpeedSequence.AnimationStep(Single)
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep*
+  name: AnimationStep
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_AnimationStep_
+  commentId: Overload:AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.AnimationStep
+  nameWithType: TransformAnimatorSpeedSequence.AnimationStep
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation(AnimationHelpers.TransformAnimator,Action{System.Single},System.Single,System.Single,Func{System.Single,System.Single})
+  name: CreateCustomAnimation(TransformAnimator, Action<Single>, Single, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateCustomAnimation_AnimationHelpers_TransformAnimator_Action_System_Single__System_Single_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation(AnimationHelpers.TransformAnimator,Action{System.Single},System.Single,System.Single,Func{System.Single,System.Single})
+  name.vb: CreateCustomAnimation(TransformAnimator, Action(Of Single), Single, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation(AnimationHelpers.TransformAnimator, Action<System.Single>, System.Single, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation(AnimationHelpers.TransformAnimator, Action(Of System.Single), System.Single, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorSpeedSequence.CreateCustomAnimation(TransformAnimator, Action<Single>, Single, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorSpeedSequence.CreateCustomAnimation(TransformAnimator, Action(Of Single), Single, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation*
+  name: CreateCustomAnimation
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateCustomAnimation_
+  commentId: Overload:AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateCustomAnimation
+  nameWithType: TransformAnimatorSpeedSequence.CreateCustomAnimation
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: CreateLocalMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalMoveAnimation_AnimationHelpers_TransformAnimator_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: CreateLocalMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation(AnimationHelpers.TransformAnimator, Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation(AnimationHelpers.TransformAnimator, Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorSpeedSequence.CreateLocalMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorSpeedSequence.CreateLocalMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation*
+  name: CreateLocalMoveAnimation
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalMoveAnimation_
+  commentId: Overload:AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalMoveAnimation
+  nameWithType: TransformAnimatorSpeedSequence.CreateLocalMoveAnimation
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation(AnimationHelpers.TransformAnimator,Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name: CreateLocalRotaionAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalRotaionAnimation_AnimationHelpers_TransformAnimator_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation(AnimationHelpers.TransformAnimator,Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: CreateLocalRotaionAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation(AnimationHelpers.TransformAnimator, Quaternion, Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation(AnimationHelpers.TransformAnimator, Quaternion, Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation*
+  name: CreateLocalRotaionAnimation
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateLocalRotaionAnimation_
+  commentId: Overload:AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation
+  nameWithType: TransformAnimatorSpeedSequence.CreateLocalRotaionAnimation
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: CreateMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateMoveAnimation_AnimationHelpers_TransformAnimator_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: CreateMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation(AnimationHelpers.TransformAnimator, Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation(AnimationHelpers.TransformAnimator, Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorSpeedSequence.CreateMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorSpeedSequence.CreateMoveAnimation(TransformAnimator, Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation*
+  name: CreateMoveAnimation
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateMoveAnimation_
+  commentId: Overload:AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateMoveAnimation
+  nameWithType: TransformAnimatorSpeedSequence.CreateMoveAnimation
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation(AnimationHelpers.TransformAnimator,Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name: CreateRotationAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateRotationAnimation_AnimationHelpers_TransformAnimator_Quaternion_Quaternion_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation(AnimationHelpers.TransformAnimator,Quaternion,Quaternion,System.Single,Func{System.Single,System.Single})
+  name.vb: CreateRotationAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation(AnimationHelpers.TransformAnimator, Quaternion, Quaternion, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation(AnimationHelpers.TransformAnimator, Quaternion, Quaternion, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorSpeedSequence.CreateRotationAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorSpeedSequence.CreateRotationAnimation(TransformAnimator, Quaternion, Quaternion, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation*
+  name: CreateRotationAnimation
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateRotationAnimation_
+  commentId: Overload:AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateRotationAnimation
+  nameWithType: TransformAnimatorSpeedSequence.CreateRotationAnimation
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name: CreateScaleAnimation(TransformAnimator, Vector3, Vector3, Single, Func<Single, Single>)
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateScaleAnimation_AnimationHelpers_TransformAnimator_Vector3_Vector3_System_Single_Func_System_Single_System_Single__
+  commentId: M:AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation(AnimationHelpers.TransformAnimator,Vector3,Vector3,System.Single,Func{System.Single,System.Single})
+  name.vb: CreateScaleAnimation(TransformAnimator, Vector3, Vector3, Single, Func(Of Single, Single))
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation(AnimationHelpers.TransformAnimator, Vector3, Vector3, System.Single, Func<System.Single, System.Single>)
+  fullName.vb: AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation(AnimationHelpers.TransformAnimator, Vector3, Vector3, System.Single, Func(Of System.Single, System.Single))
+  nameWithType: TransformAnimatorSpeedSequence.CreateScaleAnimation(TransformAnimator, Vector3, Vector3, Single, Func<Single, Single>)
+  nameWithType.vb: TransformAnimatorSpeedSequence.CreateScaleAnimation(TransformAnimator, Vector3, Vector3, Single, Func(Of Single, Single))
+- uid: AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation*
+  name: CreateScaleAnimation
+  href: api/AnimationHelpers.TransformAnimatorSpeedSequence.html#AnimationHelpers_TransformAnimatorSpeedSequence_CreateScaleAnimation_
+  commentId: Overload:AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformAnimatorSpeedSequence.CreateScaleAnimation
+  nameWithType: TransformAnimatorSpeedSequence.CreateScaleAnimation
+- uid: AnimationHelpers.TransformExtention
+  name: TransformExtention
+  href: api/AnimationHelpers.TransformExtention.html
+  commentId: T:AnimationHelpers.TransformExtention
+  fullName: AnimationHelpers.TransformExtention
+  nameWithType: TransformExtention
+- uid: AnimationHelpers.TransformExtention.Animate(Transform)
+  name: Animate(Transform)
+  href: api/AnimationHelpers.TransformExtention.html#AnimationHelpers_TransformExtention_Animate_Transform_
+  commentId: M:AnimationHelpers.TransformExtention.Animate(Transform)
+  fullName: AnimationHelpers.TransformExtention.Animate(Transform)
+  nameWithType: TransformExtention.Animate(Transform)
+- uid: AnimationHelpers.TransformExtention.Animate*
+  name: Animate
+  href: api/AnimationHelpers.TransformExtention.html#AnimationHelpers_TransformExtention_Animate_
+  commentId: Overload:AnimationHelpers.TransformExtention.Animate
+  isSpec: "True"
+  fullName: AnimationHelpers.TransformExtention.Animate
+  nameWithType: TransformExtention.Animate
+- uid: AnimationHelpers.ValueAnimationExtentions
+  name: ValueAnimationExtentions
+  href: api/AnimationHelpers.ValueAnimationExtentions.html
+  commentId: T:AnimationHelpers.ValueAnimationExtentions
+  fullName: AnimationHelpers.ValueAnimationExtentions
+  nameWithType: ValueAnimationExtentions
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(Color,System.Single,Color)
+  name: CreateValueDurationAnimation(Color, Single, Color)
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueDurationAnimation_Color_System_Single_Color_
+  commentId: M:AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(Color,System.Single,Color)
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(Color, System.Single, Color)
+  nameWithType: ValueAnimationExtentions.CreateValueDurationAnimation(Color, Single, Color)
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(System.Single,System.Single,System.Single)
+  name: CreateValueDurationAnimation(Single, Single, Single)
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueDurationAnimation_System_Single_System_Single_System_Single_
+  commentId: M:AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(System.Single,System.Single,System.Single)
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(System.Single, System.Single, System.Single)
+  nameWithType: ValueAnimationExtentions.CreateValueDurationAnimation(Single, Single, Single)
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(Vector3,System.Single,Vector3)
+  name: CreateValueDurationAnimation(Vector3, Single, Vector3)
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueDurationAnimation_Vector3_System_Single_Vector3_
+  commentId: M:AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(Vector3,System.Single,Vector3)
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation(Vector3, System.Single, Vector3)
+  nameWithType: ValueAnimationExtentions.CreateValueDurationAnimation(Vector3, Single, Vector3)
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation*
+  name: CreateValueDurationAnimation
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueDurationAnimation_
+  commentId: Overload:AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueDurationAnimation
+  nameWithType: ValueAnimationExtentions.CreateValueDurationAnimation
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(Color,System.Single,Color)
+  name: CreateValueSpeedAnimation(Color, Single, Color)
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueSpeedAnimation_Color_System_Single_Color_
+  commentId: M:AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(Color,System.Single,Color)
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(Color, System.Single, Color)
+  nameWithType: ValueAnimationExtentions.CreateValueSpeedAnimation(Color, Single, Color)
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(System.Single,System.Single,System.Single)
+  name: CreateValueSpeedAnimation(Single, Single, Single)
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueSpeedAnimation_System_Single_System_Single_System_Single_
+  commentId: M:AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(System.Single,System.Single,System.Single)
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(System.Single, System.Single, System.Single)
+  nameWithType: ValueAnimationExtentions.CreateValueSpeedAnimation(Single, Single, Single)
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(Vector3,System.Single,Vector3)
+  name: CreateValueSpeedAnimation(Vector3, Single, Vector3)
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueSpeedAnimation_Vector3_System_Single_Vector3_
+  commentId: M:AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(Vector3,System.Single,Vector3)
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation(Vector3, System.Single, Vector3)
+  nameWithType: ValueAnimationExtentions.CreateValueSpeedAnimation(Vector3, Single, Vector3)
+- uid: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation*
+  name: CreateValueSpeedAnimation
+  href: api/AnimationHelpers.ValueAnimationExtentions.html#AnimationHelpers_ValueAnimationExtentions_CreateValueSpeedAnimation_
+  commentId: Overload:AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueAnimationExtentions.CreateValueSpeedAnimation
+  nameWithType: ValueAnimationExtentions.CreateValueSpeedAnimation
+- uid: AnimationHelpers.ValueDurationAnimation`1
+  name: ValueDurationAnimation<T>
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html
+  commentId: T:AnimationHelpers.ValueDurationAnimation`1
+  name.vb: ValueDurationAnimation(Of T)
+  fullName: AnimationHelpers.ValueDurationAnimation<T>
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T)
+  nameWithType: ValueDurationAnimation<T>
+  nameWithType.vb: ValueDurationAnimation(Of T)
+- uid: AnimationHelpers.ValueDurationAnimation`1.#ctor(System.Single,Func{System.Single,`0},System.Boolean)
+  name: ValueDurationAnimation(Single, Func<Single, T>, Boolean)
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1__ctor_System_Single_Func_System_Single__0__System_Boolean_
+  commentId: M:AnimationHelpers.ValueDurationAnimation`1.#ctor(System.Single,Func{System.Single,`0},System.Boolean)
+  name.vb: ValueDurationAnimation(Single, Func(Of Single, T), Boolean)
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.ValueDurationAnimation(System.Single, Func<System.Single, T>, System.Boolean)
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).ValueDurationAnimation(System.Single, Func(Of System.Single, T), System.Boolean)
+  nameWithType: ValueDurationAnimation<T>.ValueDurationAnimation(Single, Func<Single, T>, Boolean)
+  nameWithType.vb: ValueDurationAnimation(Of T).ValueDurationAnimation(Single, Func(Of Single, T), Boolean)
+- uid: AnimationHelpers.ValueDurationAnimation`1.#ctor*
+  name: ValueDurationAnimation
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1__ctor_
+  commentId: Overload:AnimationHelpers.ValueDurationAnimation`1.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.ValueDurationAnimation
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).ValueDurationAnimation
+  nameWithType: ValueDurationAnimation<T>.ValueDurationAnimation
+  nameWithType.vb: ValueDurationAnimation(Of T).ValueDurationAnimation
+- uid: AnimationHelpers.ValueDurationAnimation`1.AnimationStep(System.Single)
+  name: AnimationStep(Single)
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1_AnimationStep_System_Single_
+  commentId: M:AnimationHelpers.ValueDurationAnimation`1.AnimationStep(System.Single)
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.AnimationStep(System.Single)
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).AnimationStep(System.Single)
+  nameWithType: ValueDurationAnimation<T>.AnimationStep(Single)
+  nameWithType.vb: ValueDurationAnimation(Of T).AnimationStep(Single)
+- uid: AnimationHelpers.ValueDurationAnimation`1.AnimationStep*
+  name: AnimationStep
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1_AnimationStep_
+  commentId: Overload:AnimationHelpers.ValueDurationAnimation`1.AnimationStep
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.AnimationStep
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).AnimationStep
+  nameWithType: ValueDurationAnimation<T>.AnimationStep
+  nameWithType.vb: ValueDurationAnimation(Of T).AnimationStep
+- uid: AnimationHelpers.ValueDurationAnimation`1.CalculateCurrentValue(System.Boolean@)
+  name: CalculateCurrentValue(out Boolean)
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1_CalculateCurrentValue_System_Boolean__
+  commentId: M:AnimationHelpers.ValueDurationAnimation`1.CalculateCurrentValue(System.Boolean@)
+  name.vb: CalculateCurrentValue(ByRef Boolean)
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.CalculateCurrentValue(out System.Boolean)
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).CalculateCurrentValue(ByRef System.Boolean)
+  nameWithType: ValueDurationAnimation<T>.CalculateCurrentValue(out Boolean)
+  nameWithType.vb: ValueDurationAnimation(Of T).CalculateCurrentValue(ByRef Boolean)
+- uid: AnimationHelpers.ValueDurationAnimation`1.CalculateCurrentValue*
+  name: CalculateCurrentValue
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1_CalculateCurrentValue_
+  commentId: Overload:AnimationHelpers.ValueDurationAnimation`1.CalculateCurrentValue
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.CalculateCurrentValue
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).CalculateCurrentValue
+  nameWithType: ValueDurationAnimation<T>.CalculateCurrentValue
+  nameWithType.vb: ValueDurationAnimation(Of T).CalculateCurrentValue
+- uid: AnimationHelpers.ValueDurationAnimation`1.CurrentValue
+  name: CurrentValue
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1_CurrentValue
+  commentId: P:AnimationHelpers.ValueDurationAnimation`1.CurrentValue
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.CurrentValue
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).CurrentValue
+  nameWithType: ValueDurationAnimation<T>.CurrentValue
+  nameWithType.vb: ValueDurationAnimation(Of T).CurrentValue
+- uid: AnimationHelpers.ValueDurationAnimation`1.CurrentValue*
+  name: CurrentValue
+  href: api/AnimationHelpers.ValueDurationAnimation-1.html#AnimationHelpers_ValueDurationAnimation_1_CurrentValue_
+  commentId: Overload:AnimationHelpers.ValueDurationAnimation`1.CurrentValue
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueDurationAnimation<T>.CurrentValue
+  fullName.vb: AnimationHelpers.ValueDurationAnimation(Of T).CurrentValue
+  nameWithType: ValueDurationAnimation<T>.CurrentValue
+  nameWithType.vb: ValueDurationAnimation(Of T).CurrentValue
+- uid: AnimationHelpers.ValueSpeedAnimation`1
+  name: ValueSpeedAnimation<T>
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html
+  commentId: T:AnimationHelpers.ValueSpeedAnimation`1
+  name.vb: ValueSpeedAnimation(Of T)
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T)
+  nameWithType: ValueSpeedAnimation<T>
+  nameWithType.vb: ValueSpeedAnimation(Of T)
+- uid: AnimationHelpers.ValueSpeedAnimation`1.#ctor(System.Single,System.Single,Func{System.Single,`0},System.Boolean)
+  name: ValueSpeedAnimation(Single, Single, Func<Single, T>, Boolean)
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1__ctor_System_Single_System_Single_Func_System_Single__0__System_Boolean_
+  commentId: M:AnimationHelpers.ValueSpeedAnimation`1.#ctor(System.Single,System.Single,Func{System.Single,`0},System.Boolean)
+  name.vb: ValueSpeedAnimation(Single, Single, Func(Of Single, T), Boolean)
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.ValueSpeedAnimation(System.Single, System.Single, Func<System.Single, T>, System.Boolean)
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).ValueSpeedAnimation(System.Single, System.Single, Func(Of System.Single, T), System.Boolean)
+  nameWithType: ValueSpeedAnimation<T>.ValueSpeedAnimation(Single, Single, Func<Single, T>, Boolean)
+  nameWithType.vb: ValueSpeedAnimation(Of T).ValueSpeedAnimation(Single, Single, Func(Of Single, T), Boolean)
+- uid: AnimationHelpers.ValueSpeedAnimation`1.#ctor*
+  name: ValueSpeedAnimation
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1__ctor_
+  commentId: Overload:AnimationHelpers.ValueSpeedAnimation`1.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.ValueSpeedAnimation
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).ValueSpeedAnimation
+  nameWithType: ValueSpeedAnimation<T>.ValueSpeedAnimation
+  nameWithType.vb: ValueSpeedAnimation(Of T).ValueSpeedAnimation
+- uid: AnimationHelpers.ValueSpeedAnimation`1.AnimationStep(System.Single)
+  name: AnimationStep(Single)
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1_AnimationStep_System_Single_
+  commentId: M:AnimationHelpers.ValueSpeedAnimation`1.AnimationStep(System.Single)
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.AnimationStep(System.Single)
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).AnimationStep(System.Single)
+  nameWithType: ValueSpeedAnimation<T>.AnimationStep(Single)
+  nameWithType.vb: ValueSpeedAnimation(Of T).AnimationStep(Single)
+- uid: AnimationHelpers.ValueSpeedAnimation`1.AnimationStep*
+  name: AnimationStep
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1_AnimationStep_
+  commentId: Overload:AnimationHelpers.ValueSpeedAnimation`1.AnimationStep
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.AnimationStep
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).AnimationStep
+  nameWithType: ValueSpeedAnimation<T>.AnimationStep
+  nameWithType.vb: ValueSpeedAnimation(Of T).AnimationStep
+- uid: AnimationHelpers.ValueSpeedAnimation`1.CalculateCurrentValue(System.Boolean@)
+  name: CalculateCurrentValue(out Boolean)
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1_CalculateCurrentValue_System_Boolean__
+  commentId: M:AnimationHelpers.ValueSpeedAnimation`1.CalculateCurrentValue(System.Boolean@)
+  name.vb: CalculateCurrentValue(ByRef Boolean)
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.CalculateCurrentValue(out System.Boolean)
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).CalculateCurrentValue(ByRef System.Boolean)
+  nameWithType: ValueSpeedAnimation<T>.CalculateCurrentValue(out Boolean)
+  nameWithType.vb: ValueSpeedAnimation(Of T).CalculateCurrentValue(ByRef Boolean)
+- uid: AnimationHelpers.ValueSpeedAnimation`1.CalculateCurrentValue*
+  name: CalculateCurrentValue
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1_CalculateCurrentValue_
+  commentId: Overload:AnimationHelpers.ValueSpeedAnimation`1.CalculateCurrentValue
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.CalculateCurrentValue
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).CalculateCurrentValue
+  nameWithType: ValueSpeedAnimation<T>.CalculateCurrentValue
+  nameWithType.vb: ValueSpeedAnimation(Of T).CalculateCurrentValue
+- uid: AnimationHelpers.ValueSpeedAnimation`1.CurrentValue
+  name: CurrentValue
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1_CurrentValue
+  commentId: P:AnimationHelpers.ValueSpeedAnimation`1.CurrentValue
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.CurrentValue
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).CurrentValue
+  nameWithType: ValueSpeedAnimation<T>.CurrentValue
+  nameWithType.vb: ValueSpeedAnimation(Of T).CurrentValue
+- uid: AnimationHelpers.ValueSpeedAnimation`1.CurrentValue*
+  name: CurrentValue
+  href: api/AnimationHelpers.ValueSpeedAnimation-1.html#AnimationHelpers_ValueSpeedAnimation_1_CurrentValue_
+  commentId: Overload:AnimationHelpers.ValueSpeedAnimation`1.CurrentValue
+  isSpec: "True"
+  fullName: AnimationHelpers.ValueSpeedAnimation<T>.CurrentValue
+  fullName.vb: AnimationHelpers.ValueSpeedAnimation(Of T).CurrentValue
+  nameWithType: ValueSpeedAnimation<T>.CurrentValue
+  nameWithType.vb: ValueSpeedAnimation(Of T).CurrentValue
+- uid: AnimationHelpers.WaitForCondition
+  name: WaitForCondition
+  href: api/AnimationHelpers.WaitForCondition.html
+  commentId: T:AnimationHelpers.WaitForCondition
+  fullName: AnimationHelpers.WaitForCondition
+  nameWithType: WaitForCondition
+- uid: AnimationHelpers.WaitForCondition.#ctor(AnimationHelpers.WaitForCondition.TimePredicate)
+  name: WaitForCondition(WaitForCondition.TimePredicate)
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition__ctor_AnimationHelpers_WaitForCondition_TimePredicate_
+  commentId: M:AnimationHelpers.WaitForCondition.#ctor(AnimationHelpers.WaitForCondition.TimePredicate)
+  fullName: AnimationHelpers.WaitForCondition.WaitForCondition(AnimationHelpers.WaitForCondition.TimePredicate)
+  nameWithType: WaitForCondition.WaitForCondition(WaitForCondition.TimePredicate)
+- uid: AnimationHelpers.WaitForCondition.#ctor*
+  name: WaitForCondition
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition__ctor_
+  commentId: Overload:AnimationHelpers.WaitForCondition.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForCondition.WaitForCondition
+  nameWithType: WaitForCondition.WaitForCondition
+- uid: AnimationHelpers.WaitForCondition.ConstructCoroutine
+  name: ConstructCoroutine()
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_ConstructCoroutine
+  commentId: M:AnimationHelpers.WaitForCondition.ConstructCoroutine
+  fullName: AnimationHelpers.WaitForCondition.ConstructCoroutine()
+  nameWithType: WaitForCondition.ConstructCoroutine()
+- uid: AnimationHelpers.WaitForCondition.ConstructCoroutine*
+  name: ConstructCoroutine
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_ConstructCoroutine_
+  commentId: Overload:AnimationHelpers.WaitForCondition.ConstructCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForCondition.ConstructCoroutine
+  nameWithType: WaitForCondition.ConstructCoroutine
+- uid: AnimationHelpers.WaitForCondition.Reverse
+  name: Reverse()
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_Reverse
+  commentId: M:AnimationHelpers.WaitForCondition.Reverse
+  fullName: AnimationHelpers.WaitForCondition.Reverse()
+  nameWithType: WaitForCondition.Reverse()
+- uid: AnimationHelpers.WaitForCondition.Reverse*
+  name: Reverse
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_Reverse_
+  commentId: Overload:AnimationHelpers.WaitForCondition.Reverse
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForCondition.Reverse
+  nameWithType: WaitForCondition.Reverse
+- uid: AnimationHelpers.WaitForCondition.StartManualAnimation
+  name: StartManualAnimation()
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_StartManualAnimation
+  commentId: M:AnimationHelpers.WaitForCondition.StartManualAnimation
+  fullName: AnimationHelpers.WaitForCondition.StartManualAnimation()
+  nameWithType: WaitForCondition.StartManualAnimation()
+- uid: AnimationHelpers.WaitForCondition.StartManualAnimation*
+  name: StartManualAnimation
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_StartManualAnimation_
+  commentId: Overload:AnimationHelpers.WaitForCondition.StartManualAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForCondition.StartManualAnimation
+  nameWithType: WaitForCondition.StartManualAnimation
+- uid: AnimationHelpers.WaitForCondition.TimePredicate
+  name: WaitForCondition.TimePredicate
+  href: api/AnimationHelpers.WaitForCondition.TimePredicate.html
+  commentId: T:AnimationHelpers.WaitForCondition.TimePredicate
+  fullName: AnimationHelpers.WaitForCondition.TimePredicate
+  nameWithType: WaitForCondition.TimePredicate
+- uid: AnimationHelpers.WaitForCondition.UpdateAnimation
+  name: UpdateAnimation()
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_UpdateAnimation
+  commentId: M:AnimationHelpers.WaitForCondition.UpdateAnimation
+  fullName: AnimationHelpers.WaitForCondition.UpdateAnimation()
+  nameWithType: WaitForCondition.UpdateAnimation()
+- uid: AnimationHelpers.WaitForCondition.UpdateAnimation*
+  name: UpdateAnimation
+  href: api/AnimationHelpers.WaitForCondition.html#AnimationHelpers_WaitForCondition_UpdateAnimation_
+  commentId: Overload:AnimationHelpers.WaitForCondition.UpdateAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForCondition.UpdateAnimation
+  nameWithType: WaitForCondition.UpdateAnimation
+- uid: AnimationHelpers.WaitForSecondsSequence
+  name: WaitForSecondsSequence
+  href: api/AnimationHelpers.WaitForSecondsSequence.html
+  commentId: T:AnimationHelpers.WaitForSecondsSequence
+  fullName: AnimationHelpers.WaitForSecondsSequence
+  nameWithType: WaitForSecondsSequence
+- uid: AnimationHelpers.WaitForSecondsSequence.#ctor(System.Single)
+  name: WaitForSecondsSequence(Single)
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence__ctor_System_Single_
+  commentId: M:AnimationHelpers.WaitForSecondsSequence.#ctor(System.Single)
+  fullName: AnimationHelpers.WaitForSecondsSequence.WaitForSecondsSequence(System.Single)
+  nameWithType: WaitForSecondsSequence.WaitForSecondsSequence(Single)
+- uid: AnimationHelpers.WaitForSecondsSequence.#ctor*
+  name: WaitForSecondsSequence
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence__ctor_
+  commentId: Overload:AnimationHelpers.WaitForSecondsSequence.#ctor
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForSecondsSequence.WaitForSecondsSequence
+  nameWithType: WaitForSecondsSequence.WaitForSecondsSequence
+- uid: AnimationHelpers.WaitForSecondsSequence.ConstructCoroutine
+  name: ConstructCoroutine()
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_ConstructCoroutine
+  commentId: M:AnimationHelpers.WaitForSecondsSequence.ConstructCoroutine
+  fullName: AnimationHelpers.WaitForSecondsSequence.ConstructCoroutine()
+  nameWithType: WaitForSecondsSequence.ConstructCoroutine()
+- uid: AnimationHelpers.WaitForSecondsSequence.ConstructCoroutine*
+  name: ConstructCoroutine
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_ConstructCoroutine_
+  commentId: Overload:AnimationHelpers.WaitForSecondsSequence.ConstructCoroutine
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForSecondsSequence.ConstructCoroutine
+  nameWithType: WaitForSecondsSequence.ConstructCoroutine
+- uid: AnimationHelpers.WaitForSecondsSequence.Reverse
+  name: Reverse()
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_Reverse
+  commentId: M:AnimationHelpers.WaitForSecondsSequence.Reverse
+  fullName: AnimationHelpers.WaitForSecondsSequence.Reverse()
+  nameWithType: WaitForSecondsSequence.Reverse()
+- uid: AnimationHelpers.WaitForSecondsSequence.Reverse*
+  name: Reverse
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_Reverse_
+  commentId: Overload:AnimationHelpers.WaitForSecondsSequence.Reverse
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForSecondsSequence.Reverse
+  nameWithType: WaitForSecondsSequence.Reverse
+- uid: AnimationHelpers.WaitForSecondsSequence.StartManualAnimation
+  name: StartManualAnimation()
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_StartManualAnimation
+  commentId: M:AnimationHelpers.WaitForSecondsSequence.StartManualAnimation
+  fullName: AnimationHelpers.WaitForSecondsSequence.StartManualAnimation()
+  nameWithType: WaitForSecondsSequence.StartManualAnimation()
+- uid: AnimationHelpers.WaitForSecondsSequence.StartManualAnimation*
+  name: StartManualAnimation
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_StartManualAnimation_
+  commentId: Overload:AnimationHelpers.WaitForSecondsSequence.StartManualAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForSecondsSequence.StartManualAnimation
+  nameWithType: WaitForSecondsSequence.StartManualAnimation
+- uid: AnimationHelpers.WaitForSecondsSequence.UpdateAnimation
+  name: UpdateAnimation()
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_UpdateAnimation
+  commentId: M:AnimationHelpers.WaitForSecondsSequence.UpdateAnimation
+  fullName: AnimationHelpers.WaitForSecondsSequence.UpdateAnimation()
+  nameWithType: WaitForSecondsSequence.UpdateAnimation()
+- uid: AnimationHelpers.WaitForSecondsSequence.UpdateAnimation*
+  name: UpdateAnimation
+  href: api/AnimationHelpers.WaitForSecondsSequence.html#AnimationHelpers_WaitForSecondsSequence_UpdateAnimation_
+  commentId: Overload:AnimationHelpers.WaitForSecondsSequence.UpdateAnimation
+  isSpec: "True"
+  fullName: AnimationHelpers.WaitForSecondsSequence.UpdateAnimation
+  nameWithType: WaitForSecondsSequence.UpdateAnimation

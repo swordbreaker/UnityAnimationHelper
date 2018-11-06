@@ -16,10 +16,10 @@ namespace AnimationHelpers
         /// Create a new TypeWrite animation
         /// </summary>
         /// <param name="text">The Text Mesh Pro text to animate</param>
-        /// <param name="typeSpeed">The pause between each character/word <see cref="animateWords"/></param>
+        /// <param name="typeSpeed">The pause between each character/word</param>
         /// <param name="waitTimeSenteceEnd">The pause when sentence is finished (only recognizes . as an end of a sentence)</param>
         /// <param name="animateWords">When true while words will appear else single characters will appear</param>
-        /// <returns>A instance of a TextAnimator <see cref="TextAnimator"/></returns>
+        /// <returns>A instance of a TextAnimator</returns>
         public static TextAnimator TypeWriteText(this TMP_Text text, float typeSpeed, float waitTimeSenteceEnd, bool animateWords = false)
         {
             return TextAnimator.Create(text, typeSpeed, waitTimeSenteceEnd, animateWords);
@@ -55,7 +55,7 @@ namespace AnimationHelpers
         /// Create a new instance of TextAnimator
         /// </summary>
         /// <param name="text">The Text Mesh Pro text to animate</param>
-        /// <param name="speed">The pause between each character/word <see cref="animateWords"/></param>
+        /// <param name="speed">The pause between each character/word</param>
         /// <param name="waitTimeSenteceEnd">The pause when sentence is finished (only recognizes . as an end of a sentence)</param>
         /// <param name="animateWords">When true while words will appear else single characters will appear</param>
         /// <returns></returns>

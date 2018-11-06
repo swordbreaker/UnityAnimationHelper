@@ -1,0 +1,12 @@
+{
+    "name": "Tests",
+    "references": [
+        "AnimationHelperAssembly"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
