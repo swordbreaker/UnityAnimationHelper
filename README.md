@@ -7,7 +7,7 @@ For the API Documentation go to (https://swordbreaker.github.io/UnityAnimationHe
 
 ## Transfrom Animator
 
-You can do a duration movement with the [Move](https://swordbreaker.github.io/UnityAnimationHelper/api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Move_Vector3_System_Single_Func_System_Single_System_Single__) or [LocalMove](https://swordbreaker.github.io/UnityAnimationHelper/api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMove_Vector3_System_Single_Func_System_Single_System_Single__) method
+You can do a duration movement with the [Move](https://swordbreaker.github.io/UnityAnimationHelper./api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_Move_Vector3_System_Single_Func_System_Single_System_Single__) or [LocalMove](https://swordbreaker.github.io/UnityAnimationHelper/api/AnimationHelpers.TransformAnimator.html#AnimationHelpers_TransformAnimator_LocalMove_Vector3_System_Single_Func_System_Single_System_Single__) method.
 
 ```c#
 var animator = transform.Animate().Move(transform.position + transform.right * 2, 2f).Execute();
@@ -15,12 +15,12 @@ var animator = transform.Animate().Move(transform.position + transform.right * 2
 
 When you have a [TransformAnimator](https://swordbreaker.github.io/UnityAnimationHelper/api/AnimationHelpers.TransformAnimator.html) instance you can access the corutine and stop the animation.
 
-You can wait in a coroutine
+You can wait in a coroutine.
 ```c#
 yield return animator.CurrentCoroutine;
 ```
 
-And you can stop the animation
+And you can stop the animation.
 ```c#
 animator.Stop();
 ```
