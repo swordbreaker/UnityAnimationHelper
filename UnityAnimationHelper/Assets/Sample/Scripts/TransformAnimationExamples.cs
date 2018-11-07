@@ -21,6 +21,11 @@ public class TransformAnimationExamples : MonoBehaviour
         yield return transform.Animate().MoveWithSpeed(transform.position + transform.right * 4, 2f).Execute()
             .CurrentCoroutine;
 
+
+        var animator = transform.Animate().MoveWithSpeed(transform.position + transform.right * 4, 2f).Execute();
+        yield return animator.CurrentCoroutine;
+        animator.Stop();
+
         //you can also create a Animation sequence which will do different animation simultaneous this only works with a duration
         var duration = 2f; //2 seconds
 
@@ -30,7 +35,7 @@ public class TransformAnimationExamples : MonoBehaviour
                 .LocalRotate(transform.localRotation, Quaternion.Euler(45, 45, 0))
                 .Custom(t => GetComponent<Renderer>().material.color = Color.Lerp(Color.red, Color.blue, t))
                 .Done()
-            //you can also wait for seconds or with WaitForCondition() for a contrition to be true.
+            //you can also wait for seconds or with WaitForCondition() for a condition to be true.
             .WaitForSeconds(0.2f)
             .Sequence(0.5f)
                 .LocalMove(transform.localPosition + Vector3.right * 4,
@@ -48,6 +53,7 @@ public class TransformAnimationExamples : MonoBehaviour
                 .Done()
             .LoopExecute();
 
+        //With the MovePath method you can let the transform move along a defined path.
         transform.position = new Vector2(0, -1);
         transform.Animate().MovePath(
             new List<Vector3>()

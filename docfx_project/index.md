@@ -1,2 +1,1 @@
 # Welcome
-[Api Documentation](/api/)
