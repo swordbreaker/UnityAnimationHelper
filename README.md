@@ -36,7 +36,7 @@ yield return transform.Animate()
         .LocalRotate(transform.localRotation, Quaternion.Euler(45, 45, 0))
         .Custom(t => GetComponent<Renderer>().material.color = Color.Lerp(Color.red, Color.blue, t))
         .Done()
-    //you can also wait for seconds or with WaitForCondition() for a contrition to be true.
+    //you can also wait for seconds or with WaitForCondition() for a condition to be true.
     .WaitForSeconds(0.2f)
     .Sequence(0.5f)
         .LocalMove(transform.localPosition + Vector3.right * 4,
