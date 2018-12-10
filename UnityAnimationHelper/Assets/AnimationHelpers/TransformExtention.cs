@@ -616,7 +616,18 @@ namespace AnimationHelpers
             if (_disposed) return;
             _isRunning = false;
             _disposed = true;
-            Destroy(gameObject);
+            if (gameObject != null)
+            {
+                Destroy(gameObject);
+            }
+        }
+        
+        /// <summary>
+        /// When the GameObject is destroyed stop the animation to prevent access of destroyed transforms
+        /// </summary>
+        private void OnDestroy()
+        {
+            Dispose();
         }
     }
 
