@@ -46,6 +46,8 @@ namespace AnimationHelpers
         private bool _animateWords;
         private List<TextAnimationAction> _actions = new List<TextAnimationAction>();
 
+        public bool IsRunning => !_disposed;
+        
         /// <inheritdoc cref="CurrentCoroutine"/>
         public Coroutine CurrentCoroutine { get; private set; }
 

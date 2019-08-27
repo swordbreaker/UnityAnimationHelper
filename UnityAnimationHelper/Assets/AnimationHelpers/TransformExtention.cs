@@ -38,6 +38,8 @@ namespace AnimationHelpers
         /// </summary>
         public bool IsRunning => !_disposed && _isRunning;
 
+        public event EventHandler OnDispose;
+        
         /// <summary>
         /// The current coroutine useful when used in an other coroutine to wait till the animation is finished with <code>yield return animation.CurrentCoroutine</code>
         /// </summary>
@@ -583,6 +585,8 @@ namespace AnimationHelpers
 
                 i = (i + 1) % _sequences.Count;
             }
+            
+            Dispose();
         }
 
         private IEnumerator _Loop(int count)
@@ -614,6 +618,7 @@ namespace AnimationHelpers
         public void Dispose()
         {
             if (_disposed) return;
+            OnDispose?.Invoke(this, EventArgs.Empty);
             _isRunning = false;
             _disposed = true;
             if (gameObject != null)
