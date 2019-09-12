@@ -1,7 +1,7 @@
 # UnityAnimationHelper
-Herlper classes to animate Unity objects form scripts. 
+Helper classes to animate Unity objects form scripts.
 
-The project provieds extention methods to animate transform, Textmesh pro text and variables.
+The project provides extension methods to animate transform, Textmesh pro text, and variables.
 
 For the API Documentation go to [https://swordbreaker.github.io/UnityAnimationHelper/api/index.html](https://swordbreaker.github.io/UnityAnimationHelper/api/index.html)
 
